@@ -1,0 +1,311 @@
+INFO     [2021-12-13 14:28:44,563] [b1713311062b4927b8d2cca27c199dd4] - {'CompanyCode': '123123123', 'CustomerNumber': '12312312308562144666', 'RequestID': '201507131507262221400000001975', 'ChannelType': '6014', 'TransactionDate': '15/03/2014 22:07:40', 'AdditionalData': ''}
+INFO     [2021-12-13 14:28:44,569] [b1713311062b4927b8d2cca27c199dd4] - Bill modul
+INFO     [2021-12-13 14:28:44,570] [b1713311062b4927b8d2cca27c199dd4] - Client IP : 127.0.0.1
+INFO     [2021-12-13 14:28:44,571] [b1713311062b4927b8d2cca27c199dd4] - REQUEST : {'CompanyCode': '123123123', 'CustomerNumber': '12312312308562144666', 'RequestID': '201507131507262221400000001975', 'ChannelType': '6014', 'TransactionDate': '15/03/2014 22:07:40', 'AdditionalData': ''}
+INFO     [2021-12-13 14:28:44,861] [b1713311062b4927b8d2cca27c199dd4] - MT1
+INFO     [2021-12-13 14:28:44,863] [b1713311062b4927b8d2cca27c199dd4] - id mitra 1
+INFO     [2021-12-13 14:28:44,899] [b1713311062b4927b8d2cca27c199dd4] - {'BillDescription': {'Indonesian': 'Tandatangan', 'English': 'Signature'}, 'BillAmount': '1000.00', 'BillNumber': 2684, 'BillSubCompany': 2684}
+INFO     [2021-12-13 14:28:44,900] [b1713311062b4927b8d2cca27c199dd4] - {'BillDescription': {'Indonesian': 'Dokumen', 'English': 'Document'}, 'BillAmount': '200.00', 'BillNumber': 2685, 'BillSubCompany': 2684}
+INFO     [2021-12-13 14:28:44,901] [b1713311062b4927b8d2cca27c199dd4] - {'BillDescription': {'Indonesian': 'Dokumen', 'English': 'Document'}, 'BillAmount': '200.00', 'BillNumber': 2686, 'BillSubCompany': 2684}
+INFO     [2021-12-13 14:28:44,912] [b1713311062b4927b8d2cca27c199dd4] - RESPONSE : {'CompanyCode': '123123123', 'CustomerNumber': '12312312308562144666', 'RequestID': '201507131507262221400000001975', 'InquiryStatus': '00', 'InquiryReason': {'Indonesian': 'Sukses', 'English': 'Success'}, 'CustomerName': 'PT. Solusi Net Internusa', 'CurrencyCode': 'IDR', 'TotalAmount': '1400.00', 'SubCompany': 2684, 'DetailBills': [{'BillDescription': {'Indonesian': 'Tandatangan', 'English': 'Signature'}, 'BillAmount': '1000.00', 'BillNumber': 2684, 'BillSubCompany': 2684}, {'BillDescription': {'Indonesian': 'Dokumen', 'English': 'Document'}, 'BillAmount': '200.00', 'BillNumber': 2685, 'BillSubCompany': 2684}, {'BillDescription': {'Indonesian': 'Dokumen', 'English': 'Document'}, 'BillAmount': '200.00', 'BillNumber': 2686, 'BillSubCompany': 2684}], 'FreeTexts': [[{'Indonesian': 'Pembelian produk Digisign', 'English': 'Purchase Digisign products'}, {'Indonesian': 'Retail', 'English': 'Retail'}]], 'AdditionalData': ''}
+INFO     [2021-12-13 14:29:42,122] [27ff1cf2891f455b997c5730d5da716c] - {'CompanyCode': '123123123', 'CustomerNumber': '12312312308562144666', 'RequestID': '201507131507262221400000001975', 'ChannelType': '6014', 'CustomerName': 'Customer BCA Virtual Account', 'CurrencyCode': 'IDR', 'PaidAmount': '1400.00', 'TotalAmount': '1400.00', 'SubCompany': '2648', 'TransactionDate': '9/12/2021 22:07:40', 'Reference': '1234567890', 'DetailBills': [], 'FlagAdvice': 'Y', 'AdditionalData': ''}
+INFO     [2021-12-13 14:29:42,124] [27ff1cf2891f455b997c5730d5da716c] - Payment modul
+INFO     [2021-12-13 14:29:42,125] [27ff1cf2891f455b997c5730d5da716c] - Client IP : 127.0.0.1
+INFO     [2021-12-13 14:29:42,126] [27ff1cf2891f455b997c5730d5da716c] - REQUEST : {'CompanyCode': '123123123', 'CustomerNumber': '12312312308562144666', 'RequestID': '201507131507262221400000001975', 'ChannelType': '6014', 'CustomerName': 'Customer BCA Virtual Account', 'CurrencyCode': 'IDR', 'PaidAmount': '1400.00', 'TotalAmount': '1400.00', 'SubCompany': '2648', 'TransactionDate': '9/12/2021 22:07:40', 'Reference': '1234567890', 'DetailBills': [], 'FlagAdvice': 'Y', 'AdditionalData': ''}
+INFO     [2021-12-13 14:29:42,166] [27ff1cf2891f455b997c5730d5da716c] - MT1
+INFO     [2021-12-13 14:29:42,167] [27ff1cf2891f455b997c5730d5da716c] - id mitra 1
+INFO     [2021-12-13 14:29:42,194] [27ff1cf2891f455b997c5730d5da716c] - 2021-12-09 22:07:40
+INFO     [2021-12-13 14:29:42,195] [27ff1cf2891f455b997c5730d5da716c] - URL : https://192.168.182.7:1070/BillingAPI/TopupCustom.html
+INFO     [2021-12-13 14:29:42,196] [27ff1cf2891f455b997c5730d5da716c] - Request billing payload : {'JSONFile': {'externalkey': 'ID1', 'amount': 10, 'tenant': 'personal'}}
+INFO     [2021-12-13 14:29:42,613] [27ff1cf2891f455b997c5730d5da716c] - {"JSONFile":{"result":"06","notif":"Failed create topup","log":"69987c05-33d6-4b08-a3eb-a87d30ea05d3","ptime":"0.07293"}}
+
+INFO     [2021-12-13 14:32:09,577] [d9879db3c45846b19b1c52ed4a2e5572] - {'CompanyCode': '123123123', 'CustomerNumber': '12312312308562144666', 'RequestID': '201507131507262221400000001975', 'ChannelType': '6014', 'CustomerName': 'Customer BCA Virtual Account', 'CurrencyCode': 'IDR', 'PaidAmount': '1400.00', 'TotalAmount': '1400.00', 'SubCompany': '2648', 'TransactionDate': '9/12/2021 22:07:40', 'Reference': '1234567890', 'DetailBills': [], 'FlagAdvice': 'Y', 'AdditionalData': ''}
+INFO     [2021-12-13 14:32:09,579] [d9879db3c45846b19b1c52ed4a2e5572] - Payment modul
+INFO     [2021-12-13 14:32:09,580] [d9879db3c45846b19b1c52ed4a2e5572] - Client IP : 127.0.0.1
+INFO     [2021-12-13 14:32:09,581] [d9879db3c45846b19b1c52ed4a2e5572] - REQUEST : {'CompanyCode': '123123123', 'CustomerNumber': '12312312308562144666', 'RequestID': '201507131507262221400000001975', 'ChannelType': '6014', 'CustomerName': 'Customer BCA Virtual Account', 'CurrencyCode': 'IDR', 'PaidAmount': '1400.00', 'TotalAmount': '1400.00', 'SubCompany': '2648', 'TransactionDate': '9/12/2021 22:07:40', 'Reference': '1234567890', 'DetailBills': [], 'FlagAdvice': 'Y', 'AdditionalData': ''}
+INFO     [2021-12-13 14:32:09,939] [d9879db3c45846b19b1c52ed4a2e5572] - MT1
+INFO     [2021-12-13 14:32:09,940] [d9879db3c45846b19b1c52ed4a2e5572] - id mitra 1
+INFO     [2021-12-13 14:32:09,983] [d9879db3c45846b19b1c52ed4a2e5572] - 2021-12-09 22:07:40
+INFO     [2021-12-13 14:32:09,984] [d9879db3c45846b19b1c52ed4a2e5572] - URL : https://192.168.182.7:1070/BillingAPI/TopupCustom.html
+INFO     [2021-12-13 14:32:09,985] [d9879db3c45846b19b1c52ed4a2e5572] - Request billing payload : {'JSONFile': {'externalkey': 'ID1', 'amount': 10, 'tenant': 'personal'}}
+INFO     [2021-12-13 14:32:10,218] [d9879db3c45846b19b1c52ed4a2e5572] - {"JSONFile":{"result":"06","notif":"Failed create topup","log":"5def7f5c-4f59-436c-ae7d-c638dd53918a","ptime":"0.10799"}}
+
+INFO     [2021-12-13 15:24:45,000] [3d1eb2f14bd940eabf0943d5c99cd3b5] - {'CompanyCode': '123123123', 'CustomerNumber': '12312312308562144666', 'RequestID': '201507131507262221400000001975', 'ChannelType': '6014', 'CustomerName': 'Customer BCA Virtual Account', 'CurrencyCode': 'IDR', 'PaidAmount': '1400.00', 'TotalAmount': '1400.00', 'SubCompany': '2648', 'TransactionDate': '9/12/2021 22:07:40', 'Reference': '1234567890', 'DetailBills': [], 'FlagAdvice': 'Y', 'AdditionalData': ''}
+INFO     [2021-12-13 15:24:45,001] [3d1eb2f14bd940eabf0943d5c99cd3b5] - Payment modul
+INFO     [2021-12-13 15:24:45,002] [3d1eb2f14bd940eabf0943d5c99cd3b5] - Client IP : 127.0.0.1
+INFO     [2021-12-13 15:24:45,003] [3d1eb2f14bd940eabf0943d5c99cd3b5] - REQUEST : {'CompanyCode': '123123123', 'CustomerNumber': '12312312308562144666', 'RequestID': '201507131507262221400000001975', 'ChannelType': '6014', 'CustomerName': 'Customer BCA Virtual Account', 'CurrencyCode': 'IDR', 'PaidAmount': '1400.00', 'TotalAmount': '1400.00', 'SubCompany': '2648', 'TransactionDate': '9/12/2021 22:07:40', 'Reference': '1234567890', 'DetailBills': [], 'FlagAdvice': 'Y', 'AdditionalData': ''}
+INFO     [2021-12-13 15:24:45,363] [3d1eb2f14bd940eabf0943d5c99cd3b5] - MT1
+INFO     [2021-12-13 15:24:45,364] [3d1eb2f14bd940eabf0943d5c99cd3b5] - id mitra 1
+INFO     [2021-12-13 15:24:45,402] [3d1eb2f14bd940eabf0943d5c99cd3b5] - 2021-12-09 22:07:40
+INFO     [2021-12-13 15:24:45,403] [3d1eb2f14bd940eabf0943d5c99cd3b5] - URL : https://192.168.182.7:1070/BillingAPI/TopupCustom.html
+INFO     [2021-12-13 15:24:45,404] [3d1eb2f14bd940eabf0943d5c99cd3b5] - Request billing payload : {'JSONFile': {'externalkey': 'ID1', 'amount': 10, 'tenant': 'personal'}}
+INFO     [2021-12-13 15:24:46,072] [3d1eb2f14bd940eabf0943d5c99cd3b5] - {"JSONFile":{"result":"06","notif":"Failed create topup","log":"974d0378-57ef-4d27-9f41-9a4d6a23e79a","ptime":"0.24443"}}
+
+INFO     [2021-12-14 10:55:46,583] [16511720f45b4a30aed3d907540da1ee] - {'virtual_account': ''}
+INFO     [2021-12-14 10:55:46,591] [16511720f45b4a30aed3d907540da1ee] - Payment modul
+INFO     [2021-12-14 10:55:46,592] [16511720f45b4a30aed3d907540da1ee] - Client IP : 127.0.0.1
+INFO     [2021-12-14 10:55:46,593] [16511720f45b4a30aed3d907540da1ee] - REQUEST : {'virtual_account': ''}
+INFO     [2021-12-14 11:00:34,952] [0f25e60408664dd289b72707d883730f] - {'virtual_account': ''}
+INFO     [2021-12-14 11:00:34,955] [0f25e60408664dd289b72707d883730f] - Payment modul
+INFO     [2021-12-14 11:00:34,957] [0f25e60408664dd289b72707d883730f] - Client IP : 127.0.0.1
+INFO     [2021-12-14 11:00:34,958] [0f25e60408664dd289b72707d883730f] - REQUEST : {'virtual_account': ''}
+INFO     [2021-12-14 11:00:35,014] [0f25e60408664dd289b72707d883730f] - Request Access token
+INFO     [2021-12-14 11:00:35,016] [0f25e60408664dd289b72707d883730f] - URL : https://devapi.klikbca.com:9443/api/oauth/token
+INFO     [2021-12-14 11:01:24,611] [d831c80b7ec849c88b0f7067d4a60e58] - {'virtual_account': ''}
+INFO     [2021-12-14 11:01:24,612] [d831c80b7ec849c88b0f7067d4a60e58] - Payment modul
+INFO     [2021-12-14 11:01:24,613] [d831c80b7ec849c88b0f7067d4a60e58] - Client IP : 127.0.0.1
+INFO     [2021-12-14 11:01:24,614] [d831c80b7ec849c88b0f7067d4a60e58] - REQUEST : {'virtual_account': ''}
+INFO     [2021-12-14 11:01:24,631] [d831c80b7ec849c88b0f7067d4a60e58] - Request Access token
+INFO     [2021-12-14 11:01:24,632] [d831c80b7ec849c88b0f7067d4a60e58] - URL : https://devapi.klikbca.com:9443/api/oauth/token
+INFO     [2021-12-14 11:01:24,633] [d831c80b7ec849c88b0f7067d4a60e58] - Tm9uZTpOb25l
+INFO     [2021-12-14 11:01:25,144] [d831c80b7ec849c88b0f7067d4a60e58] - RESPONSE : {'ErrorCode': 'ESB-14-008', 'ErrorMessage': {'Indonesian': 'client_id/client_secret/grant_type tidak valid', 'English': 'Invalid client_id/client_secret/grant_type'}}
+INFO     [2021-12-14 11:03:46,025] [ece63898e3604c9d8f0266be108d322d] - {'virtual_account': ''}
+INFO     [2021-12-14 11:03:46,027] [ece63898e3604c9d8f0266be108d322d] - Payment modul
+INFO     [2021-12-14 11:03:46,028] [ece63898e3604c9d8f0266be108d322d] - Client IP : 127.0.0.1
+INFO     [2021-12-14 11:03:46,029] [ece63898e3604c9d8f0266be108d322d] - REQUEST : {'virtual_account': ''}
+INFO     [2021-12-14 11:03:46,047] [ece63898e3604c9d8f0266be108d322d] - Request Access token
+INFO     [2021-12-14 11:03:46,048] [ece63898e3604c9d8f0266be108d322d] - URL : https://devapi.klikbca.com:9443/api/oauth/token
+INFO     [2021-12-14 11:03:46,049] [ece63898e3604c9d8f0266be108d322d] - ZTMwNWE3NmEtNzhkMy00ZjkyLWI3MzQtYzIzYWU1OGM5N2Q4OjA0MDMxNzQzLTk2NDUtNGJjNy04NGU1LWM4OTQzNjE4YzJjOA==
+INFO     [2021-12-14 11:03:46,187] [ece63898e3604c9d8f0266be108d322d] - RESPONSE : {'access_token': 'OYzNVNjzsl8wY01f2lwqVXSLqBhx6i2wmcUzESNuY724o3jGut4smo', 'token_type': 'Bearer', 'expires_in': 3600, 'scope': 'resource.WRITE resource.READ'}
+INFO     [2021-12-14 11:04:22,106] [27e667645e6a4729bcce3ab63d075c5c] - {'virtual_account': ''}
+INFO     [2021-12-14 11:04:22,107] [27e667645e6a4729bcce3ab63d075c5c] - Payment modul
+INFO     [2021-12-14 11:04:22,107] [27e667645e6a4729bcce3ab63d075c5c] - Client IP : 127.0.0.1
+INFO     [2021-12-14 11:04:22,108] [27e667645e6a4729bcce3ab63d075c5c] - REQUEST : {'virtual_account': ''}
+INFO     [2021-12-14 11:04:22,121] [27e667645e6a4729bcce3ab63d075c5c] - Request Access token
+INFO     [2021-12-14 11:04:22,122] [27e667645e6a4729bcce3ab63d075c5c] - URL : https://devapi.klikbca.com:9443/api/oauth/token
+INFO     [2021-12-14 11:04:22,123] [27e667645e6a4729bcce3ab63d075c5c] - ZTMwNWE3NmEtNzhkMy00ZjkyLWI3MzQtYzIzYWU1OGM5N2Q4OjA0MDMxNzQzLTk2NDUtNGJjNy04NGU1LWM4OTQzNjE4YzJjOA==
+INFO     [2021-12-14 11:04:22,447] [27e667645e6a4729bcce3ab63d075c5c] - RESPONSE : {'access_token': 'uqJOhT4mW4hLxD8ZOdaw3Q1vOpt6wU7N0DbUrdbsqHW2v27R55gRz0', 'token_type': 'Bearer', 'expires_in': 3600, 'scope': 'resource.WRITE resource.READ'}
+INFO     [2021-12-14 11:09:35,342] [fb18de28266d4717a9b5a48e8935bdb5] - {'virtual_account': ''}
+INFO     [2021-12-14 11:09:35,344] [fb18de28266d4717a9b5a48e8935bdb5] - Payment modul
+INFO     [2021-12-14 11:09:35,345] [fb18de28266d4717a9b5a48e8935bdb5] - Client IP : 127.0.0.1
+INFO     [2021-12-14 11:09:35,347] [fb18de28266d4717a9b5a48e8935bdb5] - REQUEST : {'virtual_account': ''}
+INFO     [2021-12-14 11:09:35,364] [fb18de28266d4717a9b5a48e8935bdb5] - Request Access token
+INFO     [2021-12-14 11:09:35,365] [fb18de28266d4717a9b5a48e8935bdb5] - URL : https://devapi.klikbca.com:9443/api/oauth/token
+INFO     [2021-12-14 11:09:35,368] [fb18de28266d4717a9b5a48e8935bdb5] - ZTMwNWE3NmEtNzhkMy00ZjkyLWI3MzQtYzIzYWU1OGM5N2Q4OjA0MDMxNzQzLTk2NDUtNGJjNy04NGU1LWM4OTQzNjE4YzJjOA==
+INFO     [2021-12-14 11:09:35,615] [fb18de28266d4717a9b5a48e8935bdb5] - RESPONSE : {'access_token': 'lUUi7fWLYgt6MixXTc6pr1z5qVAf8V5b5Mk3e2FxwUf6BaQsD7Uld1', 'token_type': 'Bearer', 'expires_in': 3600, 'scope': 'resource.WRITE resource.READ'}
+INFO     [2021-12-14 11:09:35,665] [fb18de28266d4717a9b5a48e8935bdb5] - Generated Signature : 7874CEA391B5F5719AB880BACFDAC89B53CBA0177A8BFC2C3BA6C70BCE097792
+INFO     [2021-12-14 11:09:35,666] [fb18de28266d4717a9b5a48e8935bdb5] - HEADER : {'Authorization': 'Bearer lUUi7fWLYgt6MixXTc6pr1z5qVAf8V5b5Mk3e2FxwUf6BaQsD7Uld1', 'Content-Type': 'application/json', 'Origin': 'https://api.digisign.id', 'X-BCA-Key': '2ad77de8-7f0e-4379-bce5-71d70529a611', 'X-BCA-Timestamp': '2021-12-14T11:09:35.665339', 'X-BCA-Signature': '7874CEA391B5F5719AB880BACFDAC89B53CBA0177A8BFC2C3BA6C70BCE097792'}
+INFO     [2021-12-14 11:10:35,756] [c9dc699790dc47e18a837251e79c48f8] - {'virtual_account': ''}
+INFO     [2021-12-14 11:10:35,757] [c9dc699790dc47e18a837251e79c48f8] - Payment modul
+INFO     [2021-12-14 11:10:35,758] [c9dc699790dc47e18a837251e79c48f8] - Client IP : 127.0.0.1
+INFO     [2021-12-14 11:10:35,759] [c9dc699790dc47e18a837251e79c48f8] - REQUEST : {'virtual_account': ''}
+INFO     [2021-12-14 11:10:35,770] [c9dc699790dc47e18a837251e79c48f8] - Request Access token
+INFO     [2021-12-14 11:10:35,771] [c9dc699790dc47e18a837251e79c48f8] - URL : https://devapi.klikbca.com:9443/api/oauth/token
+INFO     [2021-12-14 11:10:35,772] [c9dc699790dc47e18a837251e79c48f8] - ZTMwNWE3NmEtNzhkMy00ZjkyLWI3MzQtYzIzYWU1OGM5N2Q4OjA0MDMxNzQzLTk2NDUtNGJjNy04NGU1LWM4OTQzNjE4YzJjOA==
+INFO     [2021-12-14 11:10:36,055] [c9dc699790dc47e18a837251e79c48f8] - RESPONSE : {'access_token': 'XuXHwC0hle6Fz9hzKKM4tF7cKN31UyJZTa1sJ4XAkoAFr8c1LBNbY1', 'token_type': 'Bearer', 'expires_in': 3600, 'scope': 'resource.WRITE resource.READ'}
+INFO     [2021-12-14 11:11:54,255] [ab4aaacc699a447dbd9eb43d4d18136b] - {'virtual_account': ''}
+INFO     [2021-12-14 11:11:54,257] [ab4aaacc699a447dbd9eb43d4d18136b] - Payment modul
+INFO     [2021-12-14 11:11:54,258] [ab4aaacc699a447dbd9eb43d4d18136b] - Client IP : 127.0.0.1
+INFO     [2021-12-14 11:11:54,259] [ab4aaacc699a447dbd9eb43d4d18136b] - REQUEST : {'virtual_account': ''}
+INFO     [2021-12-14 11:11:54,283] [ab4aaacc699a447dbd9eb43d4d18136b] - Request Access token
+INFO     [2021-12-14 11:11:54,284] [ab4aaacc699a447dbd9eb43d4d18136b] - URL : https://devapi.klikbca.com:9443/api/oauth/token
+INFO     [2021-12-14 11:11:54,285] [ab4aaacc699a447dbd9eb43d4d18136b] - ZTMwNWE3NmEtNzhkMy00ZjkyLWI3MzQtYzIzYWU1OGM5N2Q4OjA0MDMxNzQzLTk2NDUtNGJjNy04NGU1LWM4OTQzNjE4YzJjOA==
+INFO     [2021-12-14 11:11:54,466] [ab4aaacc699a447dbd9eb43d4d18136b] - RESPONSE : {'access_token': 'U9UfFyeIM4ehNzE6KnRzHx1H380L3cPbPq02zv1Ywdq93xBmecIZbA', 'token_type': 'Bearer', 'expires_in': 3600, 'scope': 'resource.WRITE resource.READ'}
+INFO     [2021-12-14 11:19:20,417] [0207720a593d4d63b312071e5935388e] - {'virtual_account': ''}
+INFO     [2021-12-14 11:19:20,421] [0207720a593d4d63b312071e5935388e] - Payment modul
+INFO     [2021-12-14 11:19:20,422] [0207720a593d4d63b312071e5935388e] - Client IP : 127.0.0.1
+INFO     [2021-12-14 11:19:20,423] [0207720a593d4d63b312071e5935388e] - REQUEST : {'virtual_account': ''}
+INFO     [2021-12-14 11:19:20,445] [0207720a593d4d63b312071e5935388e] - Request Access token
+INFO     [2021-12-14 11:19:20,448] [0207720a593d4d63b312071e5935388e] - URL : https://devapi.klikbca.com:9443/api/oauth/token
+INFO     [2021-12-14 11:19:20,451] [0207720a593d4d63b312071e5935388e] - ZTMwNWE3NmEtNzhkMy00ZjkyLWI3MzQtYzIzYWU1OGM5N2Q4OjA0MDMxNzQzLTk2NDUtNGJjNy04NGU1LWM4OTQzNjE4YzJjOA==
+INFO     [2021-12-14 11:19:25,633] [0207720a593d4d63b312071e5935388e] - RESPONSE : {'access_token': 'uIhhtrupsdDQrmjYUKZ53xD1I9GWDR2cLnzL1VIsbPjTTPic3hCyW0', 'token_type': 'Bearer', 'expires_in': 3600, 'scope': 'resource.WRITE resource.READ'}
+INFO     [2021-12-14 11:19:25,882] [0207720a593d4d63b312071e5935388e] - <Response [400]>
+INFO     [2021-12-14 11:20:32,235] [e169b55e9e6441d98c6d1af2fe34ce82] - {'virtual_account': ''}
+INFO     [2021-12-14 11:20:32,237] [e169b55e9e6441d98c6d1af2fe34ce82] - Payment modul
+INFO     [2021-12-14 11:20:32,238] [e169b55e9e6441d98c6d1af2fe34ce82] - Client IP : 127.0.0.1
+INFO     [2021-12-14 11:20:32,239] [e169b55e9e6441d98c6d1af2fe34ce82] - REQUEST : {'virtual_account': ''}
+INFO     [2021-12-14 11:20:32,256] [e169b55e9e6441d98c6d1af2fe34ce82] - Request Access token
+INFO     [2021-12-14 11:20:32,257] [e169b55e9e6441d98c6d1af2fe34ce82] - URL : https://devapi.klikbca.com:9443/api/oauth/token
+INFO     [2021-12-14 11:20:32,258] [e169b55e9e6441d98c6d1af2fe34ce82] - ZTMwNWE3NmEtNzhkMy00ZjkyLWI3MzQtYzIzYWU1OGM5N2Q4OjA0MDMxNzQzLTk2NDUtNGJjNy04NGU1LWM4OTQzNjE4YzJjOA==
+INFO     [2021-12-14 11:20:32,424] [e169b55e9e6441d98c6d1af2fe34ce82] - RESPONSE : {'access_token': 'LRKCn46TSa8CHQ0HugiSJRYlMRRWyIQrJkp9UaMyah74L5d5TxBvBJ', 'token_type': 'Bearer', 'expires_in': 3600, 'scope': 'resource.WRITE resource.READ'}
+INFO     [2021-12-14 11:20:32,617] [e169b55e9e6441d98c6d1af2fe34ce82] - {"ErrorCode":"ESB-14-007", "ErrorMessage":{"Indonesian":"Timeout" , "English":"Timeout"}}
+INFO     [2021-12-14 11:20:32,619] [e169b55e9e6441d98c6d1af2fe34ce82] - 400
+INFO     [2021-12-14 11:20:32,620] [e169b55e9e6441d98c6d1af2fe34ce82] - {'ErrorCode': 'ESB-14-007', 'ErrorMessage': {'Indonesian': 'Timeout', 'English': 'Timeout'}}
+INFO     [2021-12-14 11:20:32,622] [e169b55e9e6441d98c6d1af2fe34ce82] - <Response [400]>
+INFO     [2021-12-14 11:29:34,456] [0f4d4511a67a4a579c29b4c0669cfb2e] - {'virtual_account': ''}
+INFO     [2021-12-14 11:29:34,458] [0f4d4511a67a4a579c29b4c0669cfb2e] - Payment modul
+INFO     [2021-12-14 11:29:34,458] [0f4d4511a67a4a579c29b4c0669cfb2e] - Client IP : 127.0.0.1
+INFO     [2021-12-14 11:29:34,459] [0f4d4511a67a4a579c29b4c0669cfb2e] - REQUEST : {'virtual_account': ''}
+INFO     [2021-12-14 11:29:34,481] [0f4d4511a67a4a579c29b4c0669cfb2e] - Request Access token
+INFO     [2021-12-14 11:29:34,482] [0f4d4511a67a4a579c29b4c0669cfb2e] - URL : https://devapi.klikbca.com:9443/api/oauth/token
+INFO     [2021-12-14 11:29:34,483] [0f4d4511a67a4a579c29b4c0669cfb2e] - ZTMwNWE3NmEtNzhkMy00ZjkyLWI3MzQtYzIzYWU1OGM5N2Q4OjA0MDMxNzQzLTk2NDUtNGJjNy04NGU1LWM4OTQzNjE4YzJjOA==
+INFO     [2021-12-14 11:29:34,704] [0f4d4511a67a4a579c29b4c0669cfb2e] - RESPONSE : {'access_token': 'evC8xx645mC7ti0UiRCIjSaBTRdBEBZpiE8e7FMfLrBD0HrXf1Hg19', 'token_type': 'Bearer', 'expires_in': 3600, 'scope': 'resource.WRITE resource.READ'}
+INFO     [2021-12-14 11:29:34,787] [0f4d4511a67a4a579c29b4c0669cfb2e] - Generated Signature : 9F068EB02D4B81971D1C87E5ACC4BD17454C970222E51715728CDD601CBACDF9
+INFO     [2021-12-14 11:29:34,788] [0f4d4511a67a4a579c29b4c0669cfb2e] - HEADER : {'Authorization': 'Bearer evC8xx645mC7ti0UiRCIjSaBTRdBEBZpiE8e7FMfLrBD0HrXf1Hg19', 'Content-Type': 'application/json', 'Origin': 'https://api.digisign.id', 'X-BCA-Key': '2ad77de8-7f0e-4379-bce5-71d70529a611', 'X-BCA-Timestamp': '2021-12-14T11:29:34.787166', 'X-BCA-Signature': '9F068EB02D4B81971D1C87E5ACC4BD17454C970222E51715728CDD601CBACDF9'}
+INFO     [2021-12-14 11:30:09,781] [03c70264af30426190a5a034e68f125b] - {'virtual_account': ''}
+INFO     [2021-12-14 11:30:09,783] [03c70264af30426190a5a034e68f125b] - Payment modul
+INFO     [2021-12-14 11:30:09,784] [03c70264af30426190a5a034e68f125b] - Client IP : 127.0.0.1
+INFO     [2021-12-14 11:30:09,785] [03c70264af30426190a5a034e68f125b] - REQUEST : {'virtual_account': ''}
+INFO     [2021-12-14 11:30:09,802] [03c70264af30426190a5a034e68f125b] - Request Access token
+INFO     [2021-12-14 11:30:09,804] [03c70264af30426190a5a034e68f125b] - URL : https://devapi.klikbca.com:9443/api/oauth/token
+INFO     [2021-12-14 11:30:09,805] [03c70264af30426190a5a034e68f125b] - ZTMwNWE3NmEtNzhkMy00ZjkyLWI3MzQtYzIzYWU1OGM5N2Q4OjA0MDMxNzQzLTk2NDUtNGJjNy04NGU1LWM4OTQzNjE4YzJjOA==
+INFO     [2021-12-14 11:30:15,016] [03c70264af30426190a5a034e68f125b] - RESPONSE : {'access_token': 'MXGvSRNSjGAG1l2Lr7JsYwF8lc9IdO9Y5wKG3Ow1H0r4YMzO6QSurX', 'token_type': 'Bearer', 'expires_in': 3600, 'scope': 'resource.WRITE resource.READ'}
+INFO     [2021-12-14 11:30:15,075] [03c70264af30426190a5a034e68f125b] - Generated Signature : 88E783021841A1F4D86842D4BCE05359ACE8284CF8F52FFCCD70F0BB2DD92A48
+INFO     [2021-12-14 11:30:15,077] [03c70264af30426190a5a034e68f125b] - HEADER : {'Authorization': 'Bearer MXGvSRNSjGAG1l2Lr7JsYwF8lc9IdO9Y5wKG3Ow1H0r4YMzO6QSurX', 'Content-Type': 'application/json', 'Origin': 'https://api.digisign.id', 'X-BCA-Key': '2ad77de8-7f0e-4379-bce5-71d70529a611', 'X-BCA-Timestamp': '2021-12-14T11:30:15.074760', 'X-BCA-Signature': '88E783021841A1F4D86842D4BCE05359ACE8284CF8F52FFCCD70F0BB2DD92A48'}
+INFO     [2021-12-14 11:30:15,270] [03c70264af30426190a5a034e68f125b] - {"ErrorCode":"ESB-14-007", "ErrorMessage":{"Indonesian":"Timeout" , "English":"Timeout"}}
+INFO     [2021-12-14 11:30:15,271] [03c70264af30426190a5a034e68f125b] - 400
+INFO     [2021-12-14 11:30:15,272] [03c70264af30426190a5a034e68f125b] - {'ErrorCode': 'ESB-14-007', 'ErrorMessage': {'Indonesian': 'Timeout', 'English': 'Timeout'}}
+INFO     [2021-12-14 11:30:15,274] [03c70264af30426190a5a034e68f125b] - <Response [400]>
+INFO     [2021-12-14 11:30:54,637] [660fec86fb234e78983fdd1c367ffb22] - {'virtual_account': '1234567890'}
+INFO     [2021-12-14 11:30:54,639] [660fec86fb234e78983fdd1c367ffb22] - Payment modul
+INFO     [2021-12-14 11:30:54,641] [660fec86fb234e78983fdd1c367ffb22] - Client IP : 127.0.0.1
+INFO     [2021-12-14 11:30:54,642] [660fec86fb234e78983fdd1c367ffb22] - REQUEST : {'virtual_account': '1234567890'}
+INFO     [2021-12-14 11:30:54,666] [660fec86fb234e78983fdd1c367ffb22] - Request Access token
+INFO     [2021-12-14 11:30:54,667] [660fec86fb234e78983fdd1c367ffb22] - URL : https://devapi.klikbca.com:9443/api/oauth/token
+INFO     [2021-12-14 11:30:54,668] [660fec86fb234e78983fdd1c367ffb22] - ZTMwNWE3NmEtNzhkMy00ZjkyLWI3MzQtYzIzYWU1OGM5N2Q4OjA0MDMxNzQzLTk2NDUtNGJjNy04NGU1LWM4OTQzNjE4YzJjOA==
+INFO     [2021-12-14 11:30:59,814] [660fec86fb234e78983fdd1c367ffb22] - RESPONSE : {'access_token': '3fvRJheyEEQCXbfRHOdDA2yCNHwk1zZWyUfOJ9E6s8zgQ2WnW26979', 'token_type': 'Bearer', 'expires_in': 3600, 'scope': 'resource.WRITE resource.READ'}
+INFO     [2021-12-14 11:30:59,870] [660fec86fb234e78983fdd1c367ffb22] - False
+INFO     [2021-12-14 11:32:12,216] [028442969e434ea0bd16c87e9ccb7716] - {'virtual_account': '1234567890'}
+INFO     [2021-12-14 11:32:12,217] [028442969e434ea0bd16c87e9ccb7716] - Payment modul
+INFO     [2021-12-14 11:32:12,218] [028442969e434ea0bd16c87e9ccb7716] - Client IP : 127.0.0.1
+INFO     [2021-12-14 11:32:12,219] [028442969e434ea0bd16c87e9ccb7716] - REQUEST : {'virtual_account': '1234567890'}
+INFO     [2021-12-14 11:32:12,234] [028442969e434ea0bd16c87e9ccb7716] - Request Access token
+INFO     [2021-12-14 11:32:12,236] [028442969e434ea0bd16c87e9ccb7716] - URL : https://devapi.klikbca.com:9443/api/oauth/token
+INFO     [2021-12-14 11:32:12,236] [028442969e434ea0bd16c87e9ccb7716] - ZTMwNWE3NmEtNzhkMy00ZjkyLWI3MzQtYzIzYWU1OGM5N2Q4OjA0MDMxNzQzLTk2NDUtNGJjNy04NGU1LWM4OTQzNjE4YzJjOA==
+INFO     [2021-12-14 11:32:12,435] [028442969e434ea0bd16c87e9ccb7716] - RESPONSE : {'access_token': 'ElA5B53Xf5V7PXw0KzWIEkujtaxZm0R7Ebiu4H9MhX9WY7Bd4D6Cno', 'token_type': 'Bearer', 'expires_in': 3600, 'scope': 'resource.WRITE resource.READ'}
+INFO     [2021-12-14 11:32:12,486] [028442969e434ea0bd16c87e9ccb7716] - False
+INFO     [2021-12-14 11:32:44,429] [e61b279fe18d49019524e15b8101e5b5] - {'virtual_account': ''}
+INFO     [2021-12-14 11:32:44,430] [e61b279fe18d49019524e15b8101e5b5] - Payment modul
+INFO     [2021-12-14 11:32:44,431] [e61b279fe18d49019524e15b8101e5b5] - Client IP : 127.0.0.1
+INFO     [2021-12-14 11:32:44,433] [e61b279fe18d49019524e15b8101e5b5] - REQUEST : {'virtual_account': ''}
+INFO     [2021-12-14 11:32:44,453] [e61b279fe18d49019524e15b8101e5b5] - Request Access token
+INFO     [2021-12-14 11:32:44,454] [e61b279fe18d49019524e15b8101e5b5] - URL : https://devapi.klikbca.com:9443/api/oauth/token
+INFO     [2021-12-14 11:32:44,456] [e61b279fe18d49019524e15b8101e5b5] - ZTMwNWE3NmEtNzhkMy00ZjkyLWI3MzQtYzIzYWU1OGM5N2Q4OjA0MDMxNzQzLTk2NDUtNGJjNy04NGU1LWM4OTQzNjE4YzJjOA==
+INFO     [2021-12-14 11:32:44,674] [e61b279fe18d49019524e15b8101e5b5] - RESPONSE : {'access_token': 'F1MNv1uyXvQXvGFTaKciiR4Oxjkv3TwfXIrVba5jtNSxoNBy7kyxgH', 'token_type': 'Bearer', 'expires_in': 3600, 'scope': 'resource.WRITE resource.READ'}
+INFO     [2021-12-14 11:32:44,718] [e61b279fe18d49019524e15b8101e5b5] - Generated Signature : 173155DB770F1B6D148CE73A25995C66213A5D0D3916458EADD42ACE027FA595
+INFO     [2021-12-14 11:32:44,719] [e61b279fe18d49019524e15b8101e5b5] - HEADER : {'Authorization': 'Bearer F1MNv1uyXvQXvGFTaKciiR4Oxjkv3TwfXIrVba5jtNSxoNBy7kyxgH', 'Content-Type': 'application/json', 'Origin': 'https://api.digisign.id', 'X-BCA-Key': '2ad77de8-7f0e-4379-bce5-71d70529a611', 'X-BCA-Timestamp': '2021-12-14T11:32:44.718221', 'X-BCA-Signature': '173155DB770F1B6D148CE73A25995C66213A5D0D3916458EADD42ACE027FA595'}
+INFO     [2021-12-14 11:32:44,913] [e61b279fe18d49019524e15b8101e5b5] - asdddddddddddddddd
+INFO     [2021-12-14 11:32:44,914] [e61b279fe18d49019524e15b8101e5b5] - {"ErrorCode":"ESB-14-007", "ErrorMessage":{"Indonesian":"Timeout" , "English":"Timeout"}}
+INFO     [2021-12-14 11:32:44,915] [e61b279fe18d49019524e15b8101e5b5] - 400
+INFO     [2021-12-14 11:32:44,917] [e61b279fe18d49019524e15b8101e5b5] - {'ErrorCode': 'ESB-14-007', 'ErrorMessage': {'Indonesian': 'Timeout', 'English': 'Timeout'}}
+INFO     [2021-12-14 11:32:44,918] [e61b279fe18d49019524e15b8101e5b5] - <Response [400]>
+INFO     [2021-12-14 14:51:38,741] [af2f79dd54304fee8449ee2bb1b5cd77] - {'virtual_account': ''}
+INFO     [2021-12-14 14:51:38,742] [af2f79dd54304fee8449ee2bb1b5cd77] - Payment modul
+INFO     [2021-12-14 14:51:38,743] [af2f79dd54304fee8449ee2bb1b5cd77] - Client IP : 127.0.0.1
+INFO     [2021-12-14 14:51:38,744] [af2f79dd54304fee8449ee2bb1b5cd77] - REQUEST : {'virtual_account': ''}
+INFO     [2021-12-14 14:51:38,814] [af2f79dd54304fee8449ee2bb1b5cd77] - Request Access token
+INFO     [2021-12-14 14:51:38,816] [af2f79dd54304fee8449ee2bb1b5cd77] - URL : https://devapi.klikbca.com:9443/api/oauth/token
+INFO     [2021-12-14 14:51:38,817] [af2f79dd54304fee8449ee2bb1b5cd77] - ZTMwNWE3NmEtNzhkMy00ZjkyLWI3MzQtYzIzYWU1OGM5N2Q4OjA0MDMxNzQzLTk2NDUtNGJjNy04NGU1LWM4OTQzNjE4YzJjOA==
+INFO     [2021-12-14 14:51:39,153] [af2f79dd54304fee8449ee2bb1b5cd77] - RESPONSE : {'access_token': '3bfclR8c23c59EH4HHjks1zAU5kHW4h9pWh2cGPuRfh6wGJN94uf2T', 'token_type': 'Bearer', 'expires_in': 3600, 'scope': 'resource.WRITE resource.READ'}
+INFO     [2021-12-14 14:51:39,202] [af2f79dd54304fee8449ee2bb1b5cd77] - Generated Signature : A0787B0B87A75EE541B2F0C7D0FD1128455FEB3084F8C4E9CC7DE5EBF1C31EF4
+INFO     [2021-12-14 14:51:39,203] [af2f79dd54304fee8449ee2bb1b5cd77] - HEADER : {'Authorization': 'Bearer 3bfclR8c23c59EH4HHjks1zAU5kHW4h9pWh2cGPuRfh6wGJN94uf2T', 'Content-Type': 'application/json', 'Origin': 'https://api.digisign.id', 'X-BCA-Key': '2ad77de8-7f0e-4379-bce5-71d70529a611', 'X-BCA-Timestamp': '2021-12-14T14:51:39.201398', 'X-BCA-Signature': 'A0787B0B87A75EE541B2F0C7D0FD1128455FEB3084F8C4E9CC7DE5EBF1C31EF4'}
+INFO     [2021-12-14 14:51:39,354] [af2f79dd54304fee8449ee2bb1b5cd77] - asdddddddddddddddd
+INFO     [2021-12-14 14:51:39,356] [af2f79dd54304fee8449ee2bb1b5cd77] - {"ErrorCode":"ESB-14-007", "ErrorMessage":{"Indonesian":"Timeout" , "English":"Timeout"}}
+INFO     [2021-12-14 14:51:39,357] [af2f79dd54304fee8449ee2bb1b5cd77] - 400
+INFO     [2021-12-14 14:51:39,358] [af2f79dd54304fee8449ee2bb1b5cd77] - {'ErrorCode': 'ESB-14-007', 'ErrorMessage': {'Indonesian': 'Timeout', 'English': 'Timeout'}}
+INFO     [2021-12-14 14:51:39,359] [af2f79dd54304fee8449ee2bb1b5cd77] - <Response [400]>
+INFO     [2021-12-14 14:53:39,615] [9f837163e5b5431fb11392c2fd690904] - Topup modul
+INFO     [2021-12-14 14:53:39,616] [9f837163e5b5431fb11392c2fd690904] - Client IP : 127.0.0.1
+INFO     [2021-12-14 14:53:39,617] [9f837163e5b5431fb11392c2fd690904] - Request : {"bank_from": "014", "bank_to": "014", "product": [{"tenant": "1", "amount": "10", "price": "100"}, {"tenant": "2", "amount": "2", "price": "100"}, {"tenant": "2", "amount": "2", "price": "100"}], "user": "MT2", "mitra": "MT1", "topup_type": "PRE"}
+INFO     [2021-12-14 14:54:22,600] [610ef9b223d244bea511e41639efa782] - Topup modul
+INFO     [2021-12-14 14:54:22,601] [610ef9b223d244bea511e41639efa782] - Client IP : 127.0.0.1
+INFO     [2021-12-14 14:54:22,602] [610ef9b223d244bea511e41639efa782] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': '1', 'amount': '10', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}], 'user': 'MT2', 'mitra': 'MT1', 'topup_type': 'PRE'}
+INFO     [2021-12-14 14:54:22,665] [610ef9b223d244bea511e41639efa782] - 1
+INFO     [2021-12-14 14:54:22,735] [610ef9b223d244bea511e41639efa782] - Eeuser object (19389)
+INFO     [2021-12-14 14:54:23,079] [610ef9b223d244bea511e41639efa782] - RESPONSE : {'status': '00', 'expired_date': datetime.datetime(2021, 12, 14, 19, 54, 22, 828858), 'virtual_account': '5432102'}
+INFO     [2021-12-14 14:57:20,268] [50c306606dd14874aff8f8f5b23e5d70] - Topup modul
+INFO     [2021-12-14 14:57:20,269] [50c306606dd14874aff8f8f5b23e5d70] - Client IP : 127.0.0.1
+INFO     [2021-12-14 14:57:20,270] [50c306606dd14874aff8f8f5b23e5d70] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': '1', 'amount': '10', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}], 'user': 'MT2', 'mitra': 'MT1', 'topup_type': 'PRE'}
+INFO     [2021-12-14 14:57:20,304] [50c306606dd14874aff8f8f5b23e5d70] - 1
+INFO     [2021-12-14 14:57:20,361] [50c306606dd14874aff8f8f5b23e5d70] - Eeuser object (19389)
+INFO     [2021-12-14 15:14:51,857] [9000d475f89c429eaa1c13de4e02dcde] - Topup modul
+INFO     [2021-12-14 15:14:51,858] [9000d475f89c429eaa1c13de4e02dcde] - Client IP : 127.0.0.1
+INFO     [2021-12-14 15:14:51,859] [9000d475f89c429eaa1c13de4e02dcde] - Request : {'virtual_account': '12312312'}
+INFO     [2021-12-14 15:14:52,213] [9000d475f89c429eaa1c13de4e02dcde] - RESPONSE : {'status': '00', 'message': 'Success cancel virtual account'}
+INFO     [2021-12-14 15:14:56,370] [fa36fa03e674423b8ac85ade79e71398] - Topup modul
+INFO     [2021-12-14 15:14:56,371] [fa36fa03e674423b8ac85ade79e71398] - Client IP : 127.0.0.1
+INFO     [2021-12-14 15:14:56,372] [fa36fa03e674423b8ac85ade79e71398] - Request : {'virtual_account': '12312312'}
+INFO     [2021-12-14 15:14:56,389] [fa36fa03e674423b8ac85ade79e71398] - RESPONSE : {'status': '00', 'message': 'Success cancel virtual account'}
+INFO     [2021-12-14 15:16:24,122] [75cbc4c5c8ed4a9e8837e79b449a7f66] - Topup modul
+INFO     [2021-12-14 15:16:24,124] [75cbc4c5c8ed4a9e8837e79b449a7f66] - Client IP : 127.0.0.1
+INFO     [2021-12-14 15:16:24,125] [75cbc4c5c8ed4a9e8837e79b449a7f66] - Request : {'virtual_account': '12312312'}
+INFO     [2021-12-14 15:16:24,149] [75cbc4c5c8ed4a9e8837e79b449a7f66] - RESPONSE : {'status': '01', 'message': 'Virtual account not exist'}
+INFO     [2021-12-14 15:17:40,189] [b3dd0e9f20114bac8492d096037b0a06] - Topup modul
+INFO     [2021-12-14 15:17:40,191] [b3dd0e9f20114bac8492d096037b0a06] - Client IP : 127.0.0.1
+INFO     [2021-12-14 15:17:40,192] [b3dd0e9f20114bac8492d096037b0a06] - Request : {'virtual_account': '5432102'}
+INFO     [2021-12-14 15:18:43,604] [f0dc0dea3a70435a9120388998f42f82] - Topup modul
+INFO     [2021-12-14 15:18:43,605] [f0dc0dea3a70435a9120388998f42f82] - Client IP : 127.0.0.1
+INFO     [2021-12-14 15:18:43,606] [f0dc0dea3a70435a9120388998f42f82] - Request : {'virtual_account': '12312312302'}
+INFO     [2021-12-14 15:18:43,666] [f0dc0dea3a70435a9120388998f42f82] - RESPONSE : {'status': '00', 'message': 'Success cancel virtual account'}
+INFO     [2021-12-14 15:57:57,911] [354db54c1cd24429950c266a92001d32] - {'virtual_account': ''}
+INFO     [2021-12-14 15:57:57,913] [354db54c1cd24429950c266a92001d32] - Payment modul
+INFO     [2021-12-14 15:57:57,915] [354db54c1cd24429950c266a92001d32] - Client IP : 127.0.0.1
+INFO     [2021-12-14 15:57:57,916] [354db54c1cd24429950c266a92001d32] - REQUEST : {'virtual_account': ''}
+INFO     [2021-12-14 15:57:57,965] [354db54c1cd24429950c266a92001d32] - Request Access token
+INFO     [2021-12-14 15:57:57,966] [354db54c1cd24429950c266a92001d32] - URL : https://devapi.klikbca.com:9443/api/oauth/token
+INFO     [2021-12-14 15:57:57,967] [354db54c1cd24429950c266a92001d32] - ZTMwNWE3NmEtNzhkMy00ZjkyLWI3MzQtYzIzYWU1OGM5N2Q4OjA0MDMxNzQzLTk2NDUtNGJjNy04NGU1LWM4OTQzNjE4YzJjOA==
+INFO     [2021-12-14 15:57:58,159] [354db54c1cd24429950c266a92001d32] - RESPONSE : {'access_token': 'rnW5YpG6nc9gWwMexLLYOf17vA5HE9xFGszvgpEU7dNpLI2R0PqLt9', 'token_type': 'Bearer', 'expires_in': 3600, 'scope': 'resource.WRITE resource.READ'}
+INFO     [2021-12-14 15:57:58,211] [354db54c1cd24429950c266a92001d32] - Generated Signature : 95F4E09484D07D1B99FE967AC51C542F91A8DF97FB833A41230686E2940E9436
+INFO     [2021-12-14 15:57:58,212] [354db54c1cd24429950c266a92001d32] - HEADER : {'Authorization': 'Bearer rnW5YpG6nc9gWwMexLLYOf17vA5HE9xFGszvgpEU7dNpLI2R0PqLt9', 'Content-Type': 'application/json', 'Origin': 'https://api.digisign.id', 'X-BCA-Key': '2ad77de8-7f0e-4379-bce5-71d70529a611', 'X-BCA-Timestamp': '2021-12-14T15:57:58.211160', 'X-BCA-Signature': '95F4E09484D07D1B99FE967AC51C542F91A8DF97FB833A41230686E2940E9436'}
+INFO     [2021-12-14 15:57:58,329] [354db54c1cd24429950c266a92001d32] - asdddddddddddddddd
+INFO     [2021-12-14 15:57:58,331] [354db54c1cd24429950c266a92001d32] - {"ErrorCode":"ESB-14-007", "ErrorMessage":{"Indonesian":"Timeout" , "English":"Timeout"}}
+INFO     [2021-12-14 15:57:58,332] [354db54c1cd24429950c266a92001d32] - 400
+INFO     [2021-12-14 15:57:58,334] [354db54c1cd24429950c266a92001d32] - {'ErrorCode': 'ESB-14-007', 'ErrorMessage': {'Indonesian': 'Timeout', 'English': 'Timeout'}}
+INFO     [2021-12-14 15:57:58,335] [354db54c1cd24429950c266a92001d32] - <Response [400]>
+INFO     [2021-12-14 15:58:17,642] [fdcd2d828ca44f17a329dd33ac98d8fd] - <QueryDict: {'{\r\n    "virtual_account":""\r\n}': ['']}>
+INFO     [2021-12-14 15:58:17,643] [fdcd2d828ca44f17a329dd33ac98d8fd] - Payment modul
+INFO     [2021-12-14 15:58:17,644] [fdcd2d828ca44f17a329dd33ac98d8fd] - Client IP : 127.0.0.1
+INFO     [2021-12-14 15:58:17,645] [fdcd2d828ca44f17a329dd33ac98d8fd] - REQUEST : {'{\r\n    "virtual_account":""\r\n}': ''}
+INFO     [2021-12-14 16:27:58,630] [e885106b5d6e4e7db9535033cba5369e] - {'virtual_account': ''}
+INFO     [2021-12-14 16:27:58,631] [e885106b5d6e4e7db9535033cba5369e] - Payment modul
+INFO     [2021-12-14 16:27:58,632] [e885106b5d6e4e7db9535033cba5369e] - Client IP : 127.0.0.1
+INFO     [2021-12-14 16:27:58,633] [e885106b5d6e4e7db9535033cba5369e] - REQUEST : {'virtual_account': ''}
+INFO     [2021-12-14 16:27:58,668] [e885106b5d6e4e7db9535033cba5369e] - Request Access token
+INFO     [2021-12-14 16:27:58,669] [e885106b5d6e4e7db9535033cba5369e] - URL : https://devapi.klikbca.com:9443/api/oauth/token
+INFO     [2021-12-14 16:27:58,670] [e885106b5d6e4e7db9535033cba5369e] - ZTMwNWE3NmEtNzhkMy00ZjkyLWI3MzQtYzIzYWU1OGM5N2Q4OjA0MDMxNzQzLTk2NDUtNGJjNy04NGU1LWM4OTQzNjE4YzJjOA==
+INFO     [2021-12-14 16:27:58,828] [e885106b5d6e4e7db9535033cba5369e] - RESPONSE : {'access_token': '1CV68XKxnKMYcTpa0X6LBotWIpqTOYWY4NlzStYla9Vlzq7fXjBLqd', 'token_type': 'Bearer', 'expires_in': 3600, 'scope': 'resource.WRITE resource.READ'}
+INFO     [2021-12-14 16:27:58,881] [e885106b5d6e4e7db9535033cba5369e] - Generated Signature : C32095FC24A2B99697A4A3440406F57A2161581628B128075A973F6374A6FECB
+INFO     [2021-12-14 16:27:58,882] [e885106b5d6e4e7db9535033cba5369e] - HEADER : {'Authorization': 'Bearer 1CV68XKxnKMYcTpa0X6LBotWIpqTOYWY4NlzStYla9Vlzq7fXjBLqd', 'Content-Type': 'application/json', 'Origin': 'https://api.digisign.id', 'X-BCA-Key': '2ad77de8-7f0e-4379-bce5-71d70529a611', 'X-BCA-Timestamp': '2021-12-14T16:27:58.881145', 'X-BCA-Signature': 'C32095FC24A2B99697A4A3440406F57A2161581628B128075A973F6374A6FECB'}
+INFO     [2021-12-14 16:27:59,004] [e885106b5d6e4e7db9535033cba5369e] - asdddddddddddddddd
+INFO     [2021-12-14 16:27:59,005] [e885106b5d6e4e7db9535033cba5369e] - {"ErrorCode":"ESB-14-007", "ErrorMessage":{"Indonesian":"Timeout" , "English":"Timeout"}}
+INFO     [2021-12-14 16:27:59,006] [e885106b5d6e4e7db9535033cba5369e] - 400
+INFO     [2021-12-14 16:27:59,007] [e885106b5d6e4e7db9535033cba5369e] - {'ErrorCode': 'ESB-14-007', 'ErrorMessage': {'Indonesian': 'Timeout', 'English': 'Timeout'}}
+INFO     [2021-12-14 16:27:59,008] [e885106b5d6e4e7db9535033cba5369e] - <Response [400]>
+INFO     [2021-12-15 11:06:24,366] [070c9b61c7334c55ae9c77dcc24a3fa3] - {'CompanyCode': '123123123', 'CustomerNumber': '123123123087775840735', 'RequestID': '201507131507262221400000001975', 'ChannelType': '6014', 'TransactionDate': '15/03/2014 22:07:40', 'AdditionalData': ''}
+INFO     [2021-12-15 11:06:24,375] [070c9b61c7334c55ae9c77dcc24a3fa3] - Bill modul
+INFO     [2021-12-15 11:06:24,376] [070c9b61c7334c55ae9c77dcc24a3fa3] - Client IP : 127.0.0.1
+INFO     [2021-12-15 11:06:24,376] [070c9b61c7334c55ae9c77dcc24a3fa3] - REQUEST : {'CompanyCode': '123123123', 'CustomerNumber': '123123123087775840735', 'RequestID': '201507131507262221400000001975', 'ChannelType': '6014', 'TransactionDate': '15/03/2014 22:07:40', 'AdditionalData': ''}
+INFO     [2021-12-15 11:07:04,133] [9bfaf97616994f1fb76fdbfaa5b1b841] - {'CompanyCode': '54321', 'CustomerNumber': '123123123087775840735', 'RequestID': '201507131507262221400000001975', 'ChannelType': '6014', 'TransactionDate': '15/03/2014 22:07:40', 'AdditionalData': ''}
+INFO     [2021-12-15 11:07:04,135] [9bfaf97616994f1fb76fdbfaa5b1b841] - Bill modul
+INFO     [2021-12-15 11:07:04,136] [9bfaf97616994f1fb76fdbfaa5b1b841] - Client IP : 127.0.0.1
+INFO     [2021-12-15 11:07:04,137] [9bfaf97616994f1fb76fdbfaa5b1b841] - REQUEST : {'CompanyCode': '54321', 'CustomerNumber': '123123123087775840735', 'RequestID': '201507131507262221400000001975', 'ChannelType': '6014', 'TransactionDate': '15/03/2014 22:07:40', 'AdditionalData': ''}
+INFO     [2021-12-15 11:07:04,169] [9bfaf97616994f1fb76fdbfaa5b1b841] - ID16381
+INFO     [2021-12-15 11:07:04,170] [9bfaf97616994f1fb76fdbfaa5b1b841] - id user 16381
+INFO     [2021-12-15 11:07:04,231] [9bfaf97616994f1fb76fdbfaa5b1b841] - {'BillDescription': {'Indonesian': 'Tandatangan', 'English': 'Signature'}, 'BillAmount': '1000.00', 'BillNumber': 2662, 'BillSubCompany': 2662}
+INFO     [2021-12-15 11:07:04,233] [9bfaf97616994f1fb76fdbfaa5b1b841] - {'BillDescription': {'Indonesian': 'Dokumen', 'English': 'Document'}, 'BillAmount': '200.00', 'BillNumber': 2663, 'BillSubCompany': 2662}
+INFO     [2021-12-15 11:07:04,235] [9bfaf97616994f1fb76fdbfaa5b1b841] - {'BillDescription': {'Indonesian': 'Dokumen', 'English': 'Document'}, 'BillAmount': '200.00', 'BillNumber': 2664, 'BillSubCompany': 2662}
+INFO     [2021-12-15 11:07:04,244] [9bfaf97616994f1fb76fdbfaa5b1b841] - RESPONSE : {'CompanyCode': '54321', 'CustomerNumber': '123123123087775840735', 'RequestID': '201507131507262221400000001975', 'InquiryStatus': '00', 'InquiryReason': {'Indonesian': 'Sukses', 'English': 'Success'}, 'CustomerName': 'test4', 'CurrencyCode': 'IDR', 'TotalAmount': '1400.00', 'SubCompany': 2662, 'DetailBills': [{'BillDescription': {'Indonesian': 'Tandatangan', 'English': 'Signature'}, 'BillAmount': '1000.00', 'BillNumber': 2662, 'BillSubCompany': 2662}, {'BillDescription': {'Indonesian': 'Dokumen', 'English': 'Document'}, 'BillAmount': '200.00', 'BillNumber': 2663, 'BillSubCompany': 2662}, {'BillDescription': {'Indonesian': 'Dokumen', 'English': 'Document'}, 'BillAmount': '200.00', 'BillNumber': 2664, 'BillSubCompany': 2662}], 'FreeTexts': [[{'Indonesian': 'Pembelian produk Digisign', 'English': 'Purchase Digisign products'}, {'Indonesian': 'Retail', 'English': 'Retail'}]], 'AdditionalData': ''}
+INFO     [2021-12-15 11:07:40,131] [eae0c5ce30c742c4a59135adbc664641] - {'CompanyCode': '54321', 'CustomerNumber': '123123123087775840735', 'RequestID': '201507131507262221400000001975', 'ChannelType': '6014', 'CustomerName': 'Customer BCA Virtual Account', 'CurrencyCode': 'IDR', 'PaidAmount': '1400.00', 'TotalAmount': '1400.00', 'SubCompany': '2648', 'TransactionDate': '9/12/2021 22:07:40', 'Reference': '1234567890', 'DetailBills': [], 'FlagAdvice': 'Y', 'AdditionalData': ''}
+INFO     [2021-12-15 11:07:40,133] [eae0c5ce30c742c4a59135adbc664641] - Payment modul
+INFO     [2021-12-15 11:07:40,134] [eae0c5ce30c742c4a59135adbc664641] - Client IP : 127.0.0.1
+INFO     [2021-12-15 11:07:40,135] [eae0c5ce30c742c4a59135adbc664641] - REQUEST : {'CompanyCode': '54321', 'CustomerNumber': '123123123087775840735', 'RequestID': '201507131507262221400000001975', 'ChannelType': '6014', 'CustomerName': 'Customer BCA Virtual Account', 'CurrencyCode': 'IDR', 'PaidAmount': '1400.00', 'TotalAmount': '1400.00', 'SubCompany': '2648', 'TransactionDate': '9/12/2021 22:07:40', 'Reference': '1234567890', 'DetailBills': [], 'FlagAdvice': 'Y', 'AdditionalData': ''}
+INFO     [2021-12-15 11:07:40,168] [eae0c5ce30c742c4a59135adbc664641] - ID16381
+INFO     [2021-12-15 11:07:40,169] [eae0c5ce30c742c4a59135adbc664641] - id user 16381
+INFO     [2021-12-15 11:07:40,209] [eae0c5ce30c742c4a59135adbc664641] - 2021-12-09 22:07:40
+INFO     [2021-12-15 11:07:40,211] [eae0c5ce30c742c4a59135adbc664641] - URL : https://192.168.182.7:1070/BillingAPI/TopupCustom.html
+INFO     [2021-12-15 11:07:40,213] [eae0c5ce30c742c4a59135adbc664641] - Request billing payload : {'JSONFile': {'externalkey': 'ID16381', 'amount': 10, 'tenant': 'personal'}}
+INFO     [2021-12-15 11:07:40,688] [eae0c5ce30c742c4a59135adbc664641] - {"JSONFile":{"result":"00","notif":"Success topup","invoiceid":"69c9cedb-088a-4035-ab31-fa767bb2049c","current_balance":50,"log":"d1ff5101-61e6-4859-a48d-929c0de21bca","datetime":"2021-12-15 11:07:53.134","ptime":"0.27362"}}
+
+INFO     [2021-12-15 11:07:40,799] [eae0c5ce30c742c4a59135adbc664641] - URL : https://192.168.182.7:1070/BillingAPI/TopupCustom.html
+INFO     [2021-12-15 11:07:40,800] [eae0c5ce30c742c4a59135adbc664641] - Request billing payload : {'JSONFile': {'externalkey': 'ID16381', 'amount': 2, 'tenant': 'document'}}
+INFO     [2021-12-15 11:07:41,072] [eae0c5ce30c742c4a59135adbc664641] - {"JSONFile":{"result":"00","notif":"Success topup","invoiceid":"373701bf-0e1c-4cdb-95f6-7b168cef4b03","current_balance":24,"log":"c1eacf00-c0eb-4a99-9766-431cc8eaab72","datetime":"2021-12-15 11:07:53.610","ptime":"0.14074"}}
+
+INFO     [2021-12-15 11:07:41,160] [eae0c5ce30c742c4a59135adbc664641] - URL : https://192.168.182.7:1070/BillingAPI/TopupCustom.html
+INFO     [2021-12-15 11:07:41,161] [eae0c5ce30c742c4a59135adbc664641] - Request billing payload : {'JSONFile': {'externalkey': 'ID16381', 'amount': 2, 'tenant': 'document'}}
+INFO     [2021-12-15 11:07:41,327] [eae0c5ce30c742c4a59135adbc664641] - {"JSONFile":{"result":"00","notif":"Success topup","invoiceid":"35597a25-5c74-4c0f-85f3-74cf5e6476c0","current_balance":26,"log":"80365bfa-1ce0-46dc-aee0-cd82e0f7107d","datetime":"2021-12-15 11:07:53.934","ptime":"0.08574"}}
+
+INFO     [2021-12-15 11:07:41,394] [eae0c5ce30c742c4a59135adbc664641] - RESPONSE : {'CompanyCode': '54321', 'CustomerNumber': '123123123087775840735', 'RequestID': '201507131507262221400000001975', 'PaymentFlagStatus': '00', 'PaymentFlagReason': {'Indonesian': 'Sukses', 'English': 'Success'}, 'CustomerName': 'test4', 'CurrencyCode': 'IDR', 'PaidAmount': '1400.00', 'TotalAmount': '1400.00', 'TransactionDate': '9/12/2021 22:07:40', 'DetailBills': [], 'FreeTexts': [{'Indonesian': '', 'English': ''}, {'Indonesian': '', 'English': ''}, {'Indonesian': '', 'English': ''}]}
+INFO     [2021-12-15 11:09:06,201] [1132cbff2ed149589a806ce4d6bd0670] - Topup modul
+INFO     [2021-12-15 11:09:06,202] [1132cbff2ed149589a806ce4d6bd0670] - Client IP : 127.0.0.1
+INFO     [2021-12-15 11:09:06,203] [1132cbff2ed149589a806ce4d6bd0670] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': '1', 'amount': '10', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}], 'user': 'MT2', 'mitra': 'MT1', 'topup_type': 'PRE'}
+INFO     [2021-12-15 11:09:06,246] [1132cbff2ed149589a806ce4d6bd0670] - 1
+INFO     [2021-12-15 11:09:06,306] [1132cbff2ed149589a806ce4d6bd0670] - Eeuser object (19389)
+INFO     [2021-12-15 11:09:06,528] [1132cbff2ed149589a806ce4d6bd0670] - RESPONSE : {'status': '00', 'expired_date': datetime.datetime(2021, 12, 15, 16, 9, 6, 359795), 'virtual_account': '5432102'}
+INFO     [2021-12-15 11:09:51,269] [bd8712c041a14eb3b25b0a8d09b7bffe] - Topup modul
+INFO     [2021-12-15 11:09:51,270] [bd8712c041a14eb3b25b0a8d09b7bffe] - Client IP : 127.0.0.1
+INFO     [2021-12-15 11:09:51,271] [bd8712c041a14eb3b25b0a8d09b7bffe] - Request : {'virtual_account': '5432102'}
+INFO     [2021-12-15 11:09:51,437] [bd8712c041a14eb3b25b0a8d09b7bffe] - RESPONSE : {'status': '00', 'message': 'Success cancel virtual account'}
+INFO     [2021-12-15 11:09:54,839] [2a51e143b0f04b20921a6eede7b5d737] - Topup modul
+INFO     [2021-12-15 11:09:54,840] [2a51e143b0f04b20921a6eede7b5d737] - Client IP : 127.0.0.1
+INFO     [2021-12-15 11:09:54,841] [2a51e143b0f04b20921a6eede7b5d737] - Request : {'virtual_account': '5432102'}
+INFO     [2021-12-15 11:09:54,859] [2a51e143b0f04b20921a6eede7b5d737] - RESPONSE : {'status': '01', 'message': 'Virtual account not exist'}

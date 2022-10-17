@@ -1,0 +1,4 @@
+api_key:a16c5bb4-49d1-4a12-9194-db3df367d893
+api_secret:2ad77de8-7f0e-4379-bce5-71d70529a611
+client_id:e305a76a-78d3-4f92-b734-c23ae58c97d8
+client_secret:04031743-9645-4bc7-84e5-c8943618c2c8				

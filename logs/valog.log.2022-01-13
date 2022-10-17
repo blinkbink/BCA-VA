@@ -1,0 +1,593 @@
+INFO     [2022-01-12 10:56:50,462] [98f6b6aadbb44146835cb6d726515e49] - Topup modul
+INFO     [2022-01-12 10:56:50,469] [98f6b6aadbb44146835cb6d726515e49] - Client IP : 127.0.0.1
+INFO     [2022-01-12 10:56:50,470] [98f6b6aadbb44146835cb6d726515e49] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': '1', 'amount': '10', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}], 'user': 'MT2', 'mitra': 'MT1', 'topup_type': 'PRE'}
+INFO     [2022-01-12 10:56:50,522] [98f6b6aadbb44146835cb6d726515e49] - 1
+INFO     [2022-01-12 10:56:50,599] [98f6b6aadbb44146835cb6d726515e49] - Eeuser object (19389)
+INFO     [2022-01-12 10:56:50,937] [98f6b6aadbb44146835cb6d726515e49] - RESPONSE : {'status': '00', 'expired_date': datetime.datetime(2022, 1, 12, 15, 56, 50, 655640), 'virtual_account': '5432102'}
+INFO     [2022-01-12 10:57:05,729] [3c872d7e316f4f0b8cb05d6e8c459f5f] - Topup modul
+INFO     [2022-01-12 10:57:05,730] [3c872d7e316f4f0b8cb05d6e8c459f5f] - Client IP : 127.0.0.1
+INFO     [2022-01-12 10:57:05,731] [3c872d7e316f4f0b8cb05d6e8c459f5f] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': '1', 'amount': '10', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}], 'user': 'MT2', 'mitra': 'MT1', 'topup_type': 'PRE'}
+INFO     [2022-01-12 10:57:05,756] [3c872d7e316f4f0b8cb05d6e8c459f5f] - 1
+INFO     [2022-01-12 10:57:05,820] [3c872d7e316f4f0b8cb05d6e8c459f5f] - Eeuser object (19389)
+INFO     [2022-01-12 10:58:21,653] [2b54d5d87de74902af2602fc3900aa69] - Topup modul
+INFO     [2022-01-12 10:58:21,655] [2b54d5d87de74902af2602fc3900aa69] - Client IP : 127.0.0.1
+INFO     [2022-01-12 10:58:21,656] [2b54d5d87de74902af2602fc3900aa69] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': '1', 'amount': '10', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}], 'user': 'MT2', 'mitra': 'MT1', 'topup_type': 'PRE'}
+INFO     [2022-01-12 10:58:21,725] [2b54d5d87de74902af2602fc3900aa69] - 1
+INFO     [2022-01-12 10:58:21,888] [2b54d5d87de74902af2602fc3900aa69] - Eeuser object (19389)
+INFO     [2022-01-12 11:01:24,735] [3bf387e366aa4c4ca1d45dd71294e327] - Topup modul
+INFO     [2022-01-12 11:01:24,736] [3bf387e366aa4c4ca1d45dd71294e327] - Client IP : 127.0.0.1
+INFO     [2022-01-12 11:01:24,737] [3bf387e366aa4c4ca1d45dd71294e327] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': '1', 'amount': '10', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}], 'user': 'MT2', 'mitra': 'MT1', 'topup_type': 'PRE'}
+INFO     [2022-01-12 11:01:24,762] [3bf387e366aa4c4ca1d45dd71294e327] - 1
+INFO     [2022-01-12 11:01:24,811] [3bf387e366aa4c4ca1d45dd71294e327] - Eeuser object (19389)
+INFO     [2022-01-12 11:02:24,849] [c2f9a1a8e7be49a19fe2dc8dd96e00fa] - Topup modul
+INFO     [2022-01-12 11:02:24,850] [c2f9a1a8e7be49a19fe2dc8dd96e00fa] - Client IP : 127.0.0.1
+INFO     [2022-01-12 11:02:24,851] [c2f9a1a8e7be49a19fe2dc8dd96e00fa] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': '1', 'amount': '10', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}], 'user': 'MT2', 'mitra': 'MT1', 'topup_type': 'PRE'}
+INFO     [2022-01-12 11:02:24,899] [c2f9a1a8e7be49a19fe2dc8dd96e00fa] - 1
+INFO     [2022-01-12 11:02:24,955] [c2f9a1a8e7be49a19fe2dc8dd96e00fa] - Eeuser object (19389)
+INFO     [2022-01-12 11:03:15,721] [c883117eb6d34323a70b2fa765aaf6da] - Topup modul
+INFO     [2022-01-12 11:03:15,722] [c883117eb6d34323a70b2fa765aaf6da] - Client IP : 127.0.0.1
+INFO     [2022-01-12 11:03:15,723] [c883117eb6d34323a70b2fa765aaf6da] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': '1', 'amount': '10', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}], 'user': 'MT2', 'mitra': 'MT1', 'topup_type': 'PRE'}
+INFO     [2022-01-12 11:03:15,756] [c883117eb6d34323a70b2fa765aaf6da] - 1
+INFO     [2022-01-12 11:03:15,830] [c883117eb6d34323a70b2fa765aaf6da] - Eeuser object (19389)
+INFO     [2022-01-12 11:07:20,499] [4fe51ad80aac42268793bfdc9d70e332] - Topup modul
+INFO     [2022-01-12 11:07:20,500] [4fe51ad80aac42268793bfdc9d70e332] - Client IP : 127.0.0.1
+INFO     [2022-01-12 11:07:20,501] [4fe51ad80aac42268793bfdc9d70e332] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': '1', 'amount': '10', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}], 'user': 'MT2', 'mitra': 'MT1', 'topup_type': 'PRE'}
+INFO     [2022-01-12 11:07:20,541] [4fe51ad80aac42268793bfdc9d70e332] - 1
+INFO     [2022-01-12 11:07:20,612] [4fe51ad80aac42268793bfdc9d70e332] - Eeuser object (19389)
+INFO     [2022-01-12 11:18:09,332] [4c426adda7594a7cb9bd7d1c75a53b39] - Topup modul
+INFO     [2022-01-12 11:18:09,333] [4c426adda7594a7cb9bd7d1c75a53b39] - Client IP : 127.0.0.1
+INFO     [2022-01-12 11:18:09,334] [4c426adda7594a7cb9bd7d1c75a53b39] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': 7, 'amount': 2132, 'price': 233}], 'user': 510, 'mitra': 510, 'topup_type': 'PRE'}
+INFO     [2022-01-12 11:33:35,042] [216dc8ce3ef040958943422fae882bbd] - Topup modul
+INFO     [2022-01-12 11:33:35,043] [216dc8ce3ef040958943422fae882bbd] - Client IP : 127.0.0.1
+INFO     [2022-01-12 11:33:35,044] [216dc8ce3ef040958943422fae882bbd] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': 7, 'amount': 2132, 'price': 233}], 'user': 'MT510', 'mitra': 'MT510', 'topup_type': 'PRE'}
+INFO     [2022-01-12 11:33:35,076] [216dc8ce3ef040958943422fae882bbd] - 510
+INFO     [2022-01-12 11:33:35,135] [216dc8ce3ef040958943422fae882bbd] - Eeuser object (1000072)
+INFO     [2022-01-12 11:33:35,257] [216dc8ce3ef040958943422fae882bbd] - RESPONSE : {'status': '00', 'expired_date': datetime.datetime(2022, 1, 12, 16, 33, 35, 187213), 'virtual_account': '54321000510'}
+INFO     [2022-01-12 11:53:32,882] [961fe186bcaf4a54bc6c6093669acdfc] - Topup modul
+INFO     [2022-01-12 11:53:32,883] [961fe186bcaf4a54bc6c6093669acdfc] - Client IP : 127.0.0.1
+INFO     [2022-01-12 11:53:32,884] [961fe186bcaf4a54bc6c6093669acdfc] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': 7, 'amount': 2132, 'price': 233}], 'user': 'MT510', 'mitra': 'MT510', 'topup_type': 'PRE'}
+INFO     [2022-01-12 11:53:32,909] [961fe186bcaf4a54bc6c6093669acdfc] - 510
+INFO     [2022-01-12 11:53:32,993] [961fe186bcaf4a54bc6c6093669acdfc] - Eeuser object (1000072)
+INFO     [2022-01-12 11:53:33,228] [961fe186bcaf4a54bc6c6093669acdfc] - RESPONSE : {'status': '00', 'expired_date': datetime.datetime(2022, 1, 12, 16, 53, 33, 55949), 'virtual_account': '54321000510'}
+INFO     [2022-01-12 11:55:25,446] [6c58edcfa84640159e4fc4bf1d9c00e7] - Topup modul
+INFO     [2022-01-12 11:55:25,447] [6c58edcfa84640159e4fc4bf1d9c00e7] - Client IP : 127.0.0.1
+INFO     [2022-01-12 11:55:25,448] [6c58edcfa84640159e4fc4bf1d9c00e7] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': 7, 'amount': 2132, 'price': 233}], 'user': 'MT510', 'mitra': 'MT510', 'topup_type': 'PRE'}
+INFO     [2022-01-12 11:55:25,491] [6c58edcfa84640159e4fc4bf1d9c00e7] - 510
+INFO     [2022-01-12 11:55:25,600] [6c58edcfa84640159e4fc4bf1d9c00e7] - Eeuser object (1000072)
+INFO     [2022-01-12 11:55:25,926] [6c58edcfa84640159e4fc4bf1d9c00e7] - RESPONSE : {'status': '00', 'expired_date': datetime.datetime(2022, 1, 12, 16, 55, 25, 702886), 'virtual_account': '54321000510'}
+INFO     [2022-01-12 12:53:43,311] [fe5437b1de6f4161bc4d2fffecb19e4e] - Topup modul
+INFO     [2022-01-12 12:53:43,313] [fe5437b1de6f4161bc4d2fffecb19e4e] - Client IP : 127.0.0.1
+INFO     [2022-01-12 12:53:43,314] [fe5437b1de6f4161bc4d2fffecb19e4e] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': 7, 'amount': 2132, 'price': 233}], 'user': 'MT510', 'mitra': 'MT510', 'topup_type': 'PRE', 'invoice': 'INV/366/I/2022'}
+INFO     [2022-01-12 12:53:43,340] [fe5437b1de6f4161bc4d2fffecb19e4e] - 510
+INFO     [2022-01-12 12:53:43,414] [fe5437b1de6f4161bc4d2fffecb19e4e] - Eeuser object (1000072)
+INFO     [2022-01-12 12:53:43,586] [fe5437b1de6f4161bc4d2fffecb19e4e] - RESPONSE : {'status': '00', 'expired_date': datetime.datetime(2022, 1, 12, 17, 53, 43, 452681), 'virtual_account': '54321000510'}
+INFO     [2022-01-12 13:07:53,538] [fa1965d2a810481f9426bf267d09f258] - Topup modul
+INFO     [2022-01-12 13:07:53,539] [fa1965d2a810481f9426bf267d09f258] - Client IP : 127.0.0.1
+INFO     [2022-01-12 13:07:53,540] [fa1965d2a810481f9426bf267d09f258] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': 7, 'amount': 2132, 'price': 233}], 'user': 'MT510', 'mitra': 'MT510', 'topup_type': 'PRE', 'invoice': 'INV/367/I/2022'}
+INFO     [2022-01-12 13:07:53,576] [fa1965d2a810481f9426bf267d09f258] - 510
+INFO     [2022-01-12 13:07:53,653] [fa1965d2a810481f9426bf267d09f258] - Eeuser object (1000072)
+INFO     [2022-01-12 13:08:42,576] [ef03f32e3ac14bc2a422f0b77e139a0e] - Topup modul
+INFO     [2022-01-12 13:08:42,577] [ef03f32e3ac14bc2a422f0b77e139a0e] - Client IP : 127.0.0.1
+INFO     [2022-01-12 13:08:42,578] [ef03f32e3ac14bc2a422f0b77e139a0e] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': 7, 'amount': 2132, 'price': 233}], 'user': 'MT510', 'mitra': 'MT510', 'topup_type': 'PRE', 'invoice': 'INV/367/I/2022'}
+INFO     [2022-01-12 13:08:42,609] [ef03f32e3ac14bc2a422f0b77e139a0e] - 510
+INFO     [2022-01-12 13:08:42,663] [ef03f32e3ac14bc2a422f0b77e139a0e] - Eeuser object (1000072)
+INFO     [2022-01-12 13:10:02,196] [02656a43924d491284d7c809d9f66248] - Topup modul
+INFO     [2022-01-12 13:10:02,197] [02656a43924d491284d7c809d9f66248] - Client IP : 127.0.0.1
+INFO     [2022-01-12 13:10:02,198] [02656a43924d491284d7c809d9f66248] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': 7, 'amount': 2132, 'price': 233}], 'user': 'MT510', 'mitra': 'MT510', 'topup_type': 'PRE', 'invoice': 'INV/367/I/2022'}
+INFO     [2022-01-12 13:10:02,226] [02656a43924d491284d7c809d9f66248] - 510
+INFO     [2022-01-12 13:10:03,062] [02656a43924d491284d7c809d9f66248] - Eeuser object (1000072)
+INFO     [2022-01-12 13:10:03,368] [02656a43924d491284d7c809d9f66248] - RESPONSE : {'status': '00', 'expired_date': datetime.datetime(2022, 1, 12, 18, 10, 3, 248715), 'virtual_account': '54321000510'}
+INFO     [2022-01-12 13:49:57,815] [6e43d42ac4ef4164947860ac4ca3dada] - {'CompanyCode': '54321', 'CustomerNumber': '54321000510', 'RequestID': '201507131507262221400000001975', 'ChannelType': '6014', 'CustomerName': 'Customer BCA Virtual Account', 'CurrencyCode': 'IDR', 'PaidAmount': '1400.00', 'TotalAmount': '1400.00', 'SubCompany': '2648', 'TransactionDate': '9/12/2021 22:07:40', 'Reference': '1234567890', 'DetailBills': [], 'FlagAdvice': 'Y', 'AdditionalData': ''}
+INFO     [2022-01-12 13:49:57,817] [6e43d42ac4ef4164947860ac4ca3dada] - Payment modul
+INFO     [2022-01-12 13:49:57,818] [6e43d42ac4ef4164947860ac4ca3dada] - Client IP : 127.0.0.1
+INFO     [2022-01-12 13:49:57,818] [6e43d42ac4ef4164947860ac4ca3dada] - REQUEST : {'CompanyCode': '54321', 'CustomerNumber': '54321000510', 'RequestID': '201507131507262221400000001975', 'ChannelType': '6014', 'CustomerName': 'Customer BCA Virtual Account', 'CurrencyCode': 'IDR', 'PaidAmount': '1400.00', 'TotalAmount': '1400.00', 'SubCompany': '2648', 'TransactionDate': '9/12/2021 22:07:40', 'Reference': '1234567890', 'DetailBills': [], 'FlagAdvice': 'Y', 'AdditionalData': ''}
+INFO     [2022-01-12 13:49:57,857] [6e43d42ac4ef4164947860ac4ca3dada] - MT510
+INFO     [2022-01-12 13:49:57,858] [6e43d42ac4ef4164947860ac4ca3dada] - id mitra 510
+INFO     [2022-01-12 13:49:57,885] [6e43d42ac4ef4164947860ac4ca3dada] - 2021-12-09 22:07:40
+INFO     [2022-01-12 13:49:57,887] [6e43d42ac4ef4164947860ac4ca3dada] - URL : https://192.168.182.7:1070/BillingAPI/TopupCustom.html
+INFO     [2022-01-12 13:49:57,888] [6e43d42ac4ef4164947860ac4ca3dada] - Request billing payload : {'JSONFile': {'externalkey': 'MT510', 'amount': 2132, 'tenant': 'verify_text'}}
+INFO     [2022-01-12 13:49:58,397] [6e43d42ac4ef4164947860ac4ca3dada] - {"JSONFile":{"result":"04","notif":"account externalkey with that tenant does not exist","log":"1606b925-39dd-457e-8388-6c2a58d4cae8","ptime":"0.25531"}}
+
+INFO     [2022-01-12 13:50:45,845] [8a878ba82ba64fbbbffa3ef9bf955d8a] - {'CompanyCode': '54321', 'CustomerNumber': '54321000510', 'RequestID': '201507131507262221400000001975', 'ChannelType': '6014', 'CustomerName': 'Customer BCA Virtual Account', 'CurrencyCode': 'IDR', 'PaidAmount': '1400.00', 'TotalAmount': '1400.00', 'SubCompany': '2648', 'TransactionDate': '9/12/2021 22:07:40', 'Reference': '1234567890', 'DetailBills': [], 'FlagAdvice': 'Y', 'AdditionalData': ''}
+INFO     [2022-01-12 13:50:45,847] [8a878ba82ba64fbbbffa3ef9bf955d8a] - Payment modul
+INFO     [2022-01-12 13:50:45,847] [8a878ba82ba64fbbbffa3ef9bf955d8a] - Client IP : 127.0.0.1
+INFO     [2022-01-12 13:50:45,848] [8a878ba82ba64fbbbffa3ef9bf955d8a] - REQUEST : {'CompanyCode': '54321', 'CustomerNumber': '54321000510', 'RequestID': '201507131507262221400000001975', 'ChannelType': '6014', 'CustomerName': 'Customer BCA Virtual Account', 'CurrencyCode': 'IDR', 'PaidAmount': '1400.00', 'TotalAmount': '1400.00', 'SubCompany': '2648', 'TransactionDate': '9/12/2021 22:07:40', 'Reference': '1234567890', 'DetailBills': [], 'FlagAdvice': 'Y', 'AdditionalData': ''}
+INFO     [2022-01-12 13:50:45,885] [8a878ba82ba64fbbbffa3ef9bf955d8a] - MT510
+INFO     [2022-01-12 13:50:45,886] [8a878ba82ba64fbbbffa3ef9bf955d8a] - id mitra 510
+INFO     [2022-01-12 13:50:45,914] [8a878ba82ba64fbbbffa3ef9bf955d8a] - 2021-12-09 22:07:40
+INFO     [2022-01-12 13:50:45,915] [8a878ba82ba64fbbbffa3ef9bf955d8a] - URL : https://192.168.182.7:1070/BillingAPI/TopupCustom.html
+INFO     [2022-01-12 13:50:45,916] [8a878ba82ba64fbbbffa3ef9bf955d8a] - Request billing payload : {'JSONFile': {'externalkey': 'MT510', 'amount': 2132, 'tenant': 'verify_text'}}
+INFO     [2022-01-12 13:50:46,014] [8a878ba82ba64fbbbffa3ef9bf955d8a] - {"JSONFile":{"result":"04","notif":"account externalkey with that tenant does not exist","log":"7955403a-a40e-4f35-a8b2-7e6d68676ff2","ptime":"0.00914"}}
+
+INFO     [2022-01-12 13:53:08,731] [fea55ce9d61242c4855973481316d9aa] - {'CompanyCode': '54321', 'CustomerNumber': '54321000510', 'RequestID': '201507131507262221400000001975', 'ChannelType': '6014', 'CustomerName': 'Customer BCA Virtual Account', 'CurrencyCode': 'IDR', 'PaidAmount': '1400.00', 'TotalAmount': '1400.00', 'SubCompany': '2648', 'TransactionDate': '9/12/2021 22:07:40', 'Reference': '1234567890', 'DetailBills': [], 'FlagAdvice': 'Y', 'AdditionalData': ''}
+INFO     [2022-01-12 13:53:08,733] [fea55ce9d61242c4855973481316d9aa] - Payment modul
+INFO     [2022-01-12 13:53:08,733] [fea55ce9d61242c4855973481316d9aa] - Client IP : 127.0.0.1
+INFO     [2022-01-12 13:53:08,735] [fea55ce9d61242c4855973481316d9aa] - REQUEST : {'CompanyCode': '54321', 'CustomerNumber': '54321000510', 'RequestID': '201507131507262221400000001975', 'ChannelType': '6014', 'CustomerName': 'Customer BCA Virtual Account', 'CurrencyCode': 'IDR', 'PaidAmount': '1400.00', 'TotalAmount': '1400.00', 'SubCompany': '2648', 'TransactionDate': '9/12/2021 22:07:40', 'Reference': '1234567890', 'DetailBills': [], 'FlagAdvice': 'Y', 'AdditionalData': ''}
+INFO     [2022-01-12 13:53:08,781] [fea55ce9d61242c4855973481316d9aa] - MT510
+INFO     [2022-01-12 13:53:08,782] [fea55ce9d61242c4855973481316d9aa] - id mitra 510
+INFO     [2022-01-12 13:53:08,815] [fea55ce9d61242c4855973481316d9aa] - 2021-12-09 22:07:40
+INFO     [2022-01-12 13:53:08,816] [fea55ce9d61242c4855973481316d9aa] - URL : https://192.168.182.7:1070/BillingAPI/TopupCustom.html
+INFO     [2022-01-12 13:53:08,817] [fea55ce9d61242c4855973481316d9aa] - Request billing payload : {'JSONFile': {'externalkey': 'MT510', 'amount': 2132, 'tenant': 'document'}}
+INFO     [2022-01-12 13:53:09,118] [fea55ce9d61242c4855973481316d9aa] - {"JSONFile":{"result":"00","notif":"Success topup","invoiceid":"c0274929-9b18-416b-a085-21b7f31e0eff","current_balance":2132,"log":"a6cf79dd-e551-40eb-a253-32aebf2c8e67","datetime":"2022-01-12 13:53:12.299","ptime":"0.18888"}}
+
+INFO     [2022-01-12 13:53:09,221] [fea55ce9d61242c4855973481316d9aa] - Update data topup on API Dashboard
+INFO     [2022-01-12 13:54:06,764] [9fb5b4d933494eac981e956adda25206] - {'CompanyCode': '54321', 'CustomerNumber': '54321000510', 'RequestID': '201507131507262221400000001975', 'ChannelType': '6014', 'CustomerName': 'Customer BCA Virtual Account', 'CurrencyCode': 'IDR', 'PaidAmount': '1400.00', 'TotalAmount': '1400.00', 'SubCompany': '2648', 'TransactionDate': '9/12/2021 22:07:40', 'Reference': '1234567890', 'DetailBills': [], 'FlagAdvice': 'Y', 'AdditionalData': ''}
+INFO     [2022-01-12 13:54:06,765] [9fb5b4d933494eac981e956adda25206] - Payment modul
+INFO     [2022-01-12 13:54:06,766] [9fb5b4d933494eac981e956adda25206] - Client IP : 127.0.0.1
+INFO     [2022-01-12 13:54:06,767] [9fb5b4d933494eac981e956adda25206] - REQUEST : {'CompanyCode': '54321', 'CustomerNumber': '54321000510', 'RequestID': '201507131507262221400000001975', 'ChannelType': '6014', 'CustomerName': 'Customer BCA Virtual Account', 'CurrencyCode': 'IDR', 'PaidAmount': '1400.00', 'TotalAmount': '1400.00', 'SubCompany': '2648', 'TransactionDate': '9/12/2021 22:07:40', 'Reference': '1234567890', 'DetailBills': [], 'FlagAdvice': 'Y', 'AdditionalData': ''}
+INFO     [2022-01-12 13:54:06,813] [9fb5b4d933494eac981e956adda25206] - MT510
+INFO     [2022-01-12 13:54:06,814] [9fb5b4d933494eac981e956adda25206] - id mitra 510
+INFO     [2022-01-12 13:54:11,565] [f35aed8a6f384df2aadf2011d851cf68] - {'CompanyCode': '54321', 'CustomerNumber': '54321000510', 'RequestID': '201507131507262221400000001975', 'ChannelType': '6014', 'CustomerName': 'Customer BCA Virtual Account', 'CurrencyCode': 'IDR', 'PaidAmount': '1400.00', 'TotalAmount': '1400.00', 'SubCompany': '2648', 'TransactionDate': '9/12/2021 22:07:40', 'Reference': '1234567890', 'DetailBills': [], 'FlagAdvice': 'Y', 'AdditionalData': ''}
+INFO     [2022-01-12 13:54:11,566] [f35aed8a6f384df2aadf2011d851cf68] - Payment modul
+INFO     [2022-01-12 13:54:11,568] [f35aed8a6f384df2aadf2011d851cf68] - Client IP : 127.0.0.1
+INFO     [2022-01-12 13:54:11,568] [f35aed8a6f384df2aadf2011d851cf68] - REQUEST : {'CompanyCode': '54321', 'CustomerNumber': '54321000510', 'RequestID': '201507131507262221400000001975', 'ChannelType': '6014', 'CustomerName': 'Customer BCA Virtual Account', 'CurrencyCode': 'IDR', 'PaidAmount': '1400.00', 'TotalAmount': '1400.00', 'SubCompany': '2648', 'TransactionDate': '9/12/2021 22:07:40', 'Reference': '1234567890', 'DetailBills': [], 'FlagAdvice': 'Y', 'AdditionalData': ''}
+INFO     [2022-01-12 13:54:11,607] [f35aed8a6f384df2aadf2011d851cf68] - MT510
+INFO     [2022-01-12 13:54:11,608] [f35aed8a6f384df2aadf2011d851cf68] - id mitra 510
+INFO     [2022-01-12 13:54:45,548] [e1f01ca5fce34a17b298cd9910cb96c9] - Topup modul
+INFO     [2022-01-12 13:54:45,549] [e1f01ca5fce34a17b298cd9910cb96c9] - Client IP : 127.0.0.1
+INFO     [2022-01-12 13:54:45,550] [e1f01ca5fce34a17b298cd9910cb96c9] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': 7, 'amount': 2132, 'price': 233}], 'user': 'MT510', 'mitra': 'MT510', 'topup_type': 'PRE', 'invoice': 'INV/368/I/2022'}
+INFO     [2022-01-12 13:54:45,578] [e1f01ca5fce34a17b298cd9910cb96c9] - 510
+INFO     [2022-01-12 13:54:45,645] [e1f01ca5fce34a17b298cd9910cb96c9] - Eeuser object (1000072)
+INFO     [2022-01-12 13:54:45,731] [e1f01ca5fce34a17b298cd9910cb96c9] - RESPONSE : {'status': '00', 'expired_date': datetime.datetime(2022, 1, 12, 18, 54, 45, 683802), 'virtual_account': '54321000510'}
+INFO     [2022-01-12 13:55:10,547] [4cc6fa15322a43c9bb4639265c9a004c] - {'CompanyCode': '54321', 'CustomerNumber': '54321000510', 'RequestID': '201507131507262221400000001975', 'ChannelType': '6014', 'CustomerName': 'Customer BCA Virtual Account', 'CurrencyCode': 'IDR', 'PaidAmount': '1400.00', 'TotalAmount': '1400.00', 'SubCompany': '2648', 'TransactionDate': '9/12/2021 22:07:40', 'Reference': '1234567890', 'DetailBills': [], 'FlagAdvice': 'Y', 'AdditionalData': ''}
+INFO     [2022-01-12 13:55:10,548] [4cc6fa15322a43c9bb4639265c9a004c] - Payment modul
+INFO     [2022-01-12 13:55:10,550] [4cc6fa15322a43c9bb4639265c9a004c] - Client IP : 127.0.0.1
+INFO     [2022-01-12 13:55:10,550] [4cc6fa15322a43c9bb4639265c9a004c] - REQUEST : {'CompanyCode': '54321', 'CustomerNumber': '54321000510', 'RequestID': '201507131507262221400000001975', 'ChannelType': '6014', 'CustomerName': 'Customer BCA Virtual Account', 'CurrencyCode': 'IDR', 'PaidAmount': '1400.00', 'TotalAmount': '1400.00', 'SubCompany': '2648', 'TransactionDate': '9/12/2021 22:07:40', 'Reference': '1234567890', 'DetailBills': [], 'FlagAdvice': 'Y', 'AdditionalData': ''}
+INFO     [2022-01-12 13:55:10,592] [4cc6fa15322a43c9bb4639265c9a004c] - MT510
+INFO     [2022-01-12 13:55:10,593] [4cc6fa15322a43c9bb4639265c9a004c] - id mitra 510
+INFO     [2022-01-12 13:55:10,623] [4cc6fa15322a43c9bb4639265c9a004c] - 2021-12-09 22:07:40
+INFO     [2022-01-12 13:55:10,624] [4cc6fa15322a43c9bb4639265c9a004c] - URL : https://192.168.182.7:1070/BillingAPI/TopupCustom.html
+INFO     [2022-01-12 13:55:10,625] [4cc6fa15322a43c9bb4639265c9a004c] - Request billing payload : {'JSONFile': {'externalkey': 'MT510', 'amount': 2132, 'tenant': 'verify_text'}}
+INFO     [2022-01-12 13:55:10,755] [4cc6fa15322a43c9bb4639265c9a004c] - {"JSONFile":{"result":"04","notif":"account externalkey with that tenant does not exist","log":"f987e9fb-aa21-4e64-bf4b-3b616c81fb40","ptime":"0.00918"}}
+
+INFO     [2022-01-12 13:55:29,345] [97f1a26946d54ea3aa19bf264959a0b8] - {'CompanyCode': '54321', 'CustomerNumber': '54321000510', 'RequestID': '201507131507262221400000001975', 'ChannelType': '6014', 'CustomerName': 'Customer BCA Virtual Account', 'CurrencyCode': 'IDR', 'PaidAmount': '1400.00', 'TotalAmount': '1400.00', 'SubCompany': '2648', 'TransactionDate': '9/12/2021 22:07:40', 'Reference': '1234567890', 'DetailBills': [], 'FlagAdvice': 'Y', 'AdditionalData': ''}
+INFO     [2022-01-12 13:55:29,347] [97f1a26946d54ea3aa19bf264959a0b8] - Payment modul
+INFO     [2022-01-12 13:55:29,348] [97f1a26946d54ea3aa19bf264959a0b8] - Client IP : 127.0.0.1
+INFO     [2022-01-12 13:55:29,349] [97f1a26946d54ea3aa19bf264959a0b8] - REQUEST : {'CompanyCode': '54321', 'CustomerNumber': '54321000510', 'RequestID': '201507131507262221400000001975', 'ChannelType': '6014', 'CustomerName': 'Customer BCA Virtual Account', 'CurrencyCode': 'IDR', 'PaidAmount': '1400.00', 'TotalAmount': '1400.00', 'SubCompany': '2648', 'TransactionDate': '9/12/2021 22:07:40', 'Reference': '1234567890', 'DetailBills': [], 'FlagAdvice': 'Y', 'AdditionalData': ''}
+INFO     [2022-01-12 13:55:29,392] [97f1a26946d54ea3aa19bf264959a0b8] - MT510
+INFO     [2022-01-12 13:55:29,393] [97f1a26946d54ea3aa19bf264959a0b8] - id mitra 510
+INFO     [2022-01-12 13:55:29,431] [97f1a26946d54ea3aa19bf264959a0b8] - 2021-12-09 22:07:40
+INFO     [2022-01-12 13:55:29,432] [97f1a26946d54ea3aa19bf264959a0b8] - URL : https://192.168.182.7:1070/BillingAPI/TopupCustom.html
+INFO     [2022-01-12 13:55:29,433] [97f1a26946d54ea3aa19bf264959a0b8] - Request billing payload : {'JSONFile': {'externalkey': 'MT510', 'amount': 2132, 'tenant': 'document'}}
+INFO     [2022-01-12 13:55:29,605] [97f1a26946d54ea3aa19bf264959a0b8] - {"JSONFile":{"result":"00","notif":"Success topup","invoiceid":"0ef0a99a-eae4-466c-b0f1-75ef5ceb4193","current_balance":4264,"log":"3481bce5-7da7-4805-92aa-51876b653f4d","datetime":"2022-01-12 13:55:32.901","ptime":"0.07486"}}
+
+INFO     [2022-01-12 13:55:29,710] [97f1a26946d54ea3aa19bf264959a0b8] - Update data topup on API Dashboard
+INFO     [2022-01-12 13:58:35,989] [f555e49e11594b9ea01f4bd8954cf2fe] - Topup modul
+INFO     [2022-01-12 13:58:35,990] [f555e49e11594b9ea01f4bd8954cf2fe] - Client IP : 127.0.0.1
+INFO     [2022-01-12 13:58:35,991] [f555e49e11594b9ea01f4bd8954cf2fe] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': 7, 'amount': 2132, 'price': 233}], 'user': 'MT510', 'mitra': 'MT510', 'topup_type': 'PRE', 'invoice': 'INV/369/I/2022'}
+INFO     [2022-01-12 13:58:36,018] [f555e49e11594b9ea01f4bd8954cf2fe] - 510
+INFO     [2022-01-12 13:58:36,074] [f555e49e11594b9ea01f4bd8954cf2fe] - Eeuser object (1000072)
+INFO     [2022-01-12 13:58:36,164] [f555e49e11594b9ea01f4bd8954cf2fe] - RESPONSE : {'status': '00', 'expired_date': datetime.datetime(2022, 1, 12, 18, 58, 36, 115028), 'virtual_account': '54321000510'}
+INFO     [2022-01-12 13:58:48,286] [e2712fa053764b0189793c649b4ef332] - {'CompanyCode': '54321', 'CustomerNumber': '54321000510', 'RequestID': '201507131507262221400000001975', 'ChannelType': '6014', 'CustomerName': 'Customer BCA Virtual Account', 'CurrencyCode': 'IDR', 'PaidAmount': '1400.00', 'TotalAmount': '1400.00', 'SubCompany': '2648', 'TransactionDate': '9/12/2021 22:07:40', 'Reference': '1234567890', 'DetailBills': [], 'FlagAdvice': 'Y', 'AdditionalData': ''}
+INFO     [2022-01-12 13:58:48,288] [e2712fa053764b0189793c649b4ef332] - Payment modul
+INFO     [2022-01-12 13:58:48,289] [e2712fa053764b0189793c649b4ef332] - Client IP : 127.0.0.1
+INFO     [2022-01-12 13:58:48,289] [e2712fa053764b0189793c649b4ef332] - REQUEST : {'CompanyCode': '54321', 'CustomerNumber': '54321000510', 'RequestID': '201507131507262221400000001975', 'ChannelType': '6014', 'CustomerName': 'Customer BCA Virtual Account', 'CurrencyCode': 'IDR', 'PaidAmount': '1400.00', 'TotalAmount': '1400.00', 'SubCompany': '2648', 'TransactionDate': '9/12/2021 22:07:40', 'Reference': '1234567890', 'DetailBills': [], 'FlagAdvice': 'Y', 'AdditionalData': ''}
+INFO     [2022-01-12 13:58:48,335] [e2712fa053764b0189793c649b4ef332] - MT510
+INFO     [2022-01-12 13:58:48,336] [e2712fa053764b0189793c649b4ef332] - id mitra 510
+INFO     [2022-01-12 13:58:48,360] [e2712fa053764b0189793c649b4ef332] - 2021-12-09 22:07:40
+INFO     [2022-01-12 13:58:48,362] [e2712fa053764b0189793c649b4ef332] - URL : https://192.168.182.7:1070/BillingAPI/TopupCustom.html
+INFO     [2022-01-12 13:58:48,362] [e2712fa053764b0189793c649b4ef332] - Request billing payload : {'JSONFile': {'externalkey': 'MT510', 'amount': 2132, 'tenant': 'verify_text'}}
+INFO     [2022-01-12 13:58:48,495] [e2712fa053764b0189793c649b4ef332] - {"JSONFile":{"result":"04","notif":"account externalkey with that tenant does not exist","log":"77687930-a749-4d52-8101-dc4afa20ce37","ptime":"0.01102"}}
+
+INFO     [2022-01-12 13:59:12,129] [8670d68e0267423da661f00cd89673b3] - {'CompanyCode': '54321', 'CustomerNumber': '54321000510', 'RequestID': '201507131507262221400000001975', 'ChannelType': '6014', 'CustomerName': 'Customer BCA Virtual Account', 'CurrencyCode': 'IDR', 'PaidAmount': '1400.00', 'TotalAmount': '1400.00', 'SubCompany': '2648', 'TransactionDate': '9/12/2021 22:07:40', 'Reference': '1234567890', 'DetailBills': [], 'FlagAdvice': 'Y', 'AdditionalData': ''}
+INFO     [2022-01-12 13:59:12,131] [8670d68e0267423da661f00cd89673b3] - Payment modul
+INFO     [2022-01-12 13:59:12,132] [8670d68e0267423da661f00cd89673b3] - Client IP : 127.0.0.1
+INFO     [2022-01-12 13:59:12,134] [8670d68e0267423da661f00cd89673b3] - REQUEST : {'CompanyCode': '54321', 'CustomerNumber': '54321000510', 'RequestID': '201507131507262221400000001975', 'ChannelType': '6014', 'CustomerName': 'Customer BCA Virtual Account', 'CurrencyCode': 'IDR', 'PaidAmount': '1400.00', 'TotalAmount': '1400.00', 'SubCompany': '2648', 'TransactionDate': '9/12/2021 22:07:40', 'Reference': '1234567890', 'DetailBills': [], 'FlagAdvice': 'Y', 'AdditionalData': ''}
+INFO     [2022-01-12 13:59:12,174] [8670d68e0267423da661f00cd89673b3] - MT510
+INFO     [2022-01-12 13:59:12,177] [8670d68e0267423da661f00cd89673b3] - id mitra 510
+INFO     [2022-01-12 13:59:12,207] [8670d68e0267423da661f00cd89673b3] - 2021-12-09 22:07:40
+INFO     [2022-01-12 13:59:12,213] [8670d68e0267423da661f00cd89673b3] - URL : https://192.168.182.7:1070/BillingAPI/TopupCustom.html
+INFO     [2022-01-12 13:59:12,214] [8670d68e0267423da661f00cd89673b3] - Request billing payload : {'JSONFile': {'externalkey': 'MT510', 'amount': 2132, 'tenant': 'document'}}
+INFO     [2022-01-12 13:59:12,483] [8670d68e0267423da661f00cd89673b3] - {"JSONFile":{"result":"00","notif":"Success topup","invoiceid":"8d1b17bc-13f1-4049-9e81-57089d2df0ac","current_balance":6396,"log":"a1626298-c6c9-4ff5-94c2-6a65e6bf64c2","datetime":"2022-01-12 13:59:15.704","ptime":"0.16454"}}
+
+INFO     [2022-01-12 13:59:12,569] [8670d68e0267423da661f00cd89673b3] - Update data topup on API Dashboard
+INFO     [2022-01-12 13:59:12,787] [8670d68e0267423da661f00cd89673b3] - {"message": "Success", "process_time": 0.20253562927246094}
+INFO     [2022-01-12 13:59:12,788] [8670d68e0267423da661f00cd89673b3] - Done
+INFO     [2022-01-12 13:59:12,790] [8670d68e0267423da661f00cd89673b3] - RESPONSE : {'CompanyCode': '54321', 'CustomerNumber': '54321000510', 'RequestID': '201507131507262221400000001975', 'PaymentFlagStatus': '01', 'PaymentFlagReason': {'Indonesian': 'TotalAmount tidak sama dengan tagihan', 'English': 'TotalAmount not the same as the bill'}, 'CustomerName': 'PT Visionet Internasional (OVO)', 'CurrencyCode': 'IDR', 'PaidAmount': '1400.00', 'TotalAmount': '1400.00', 'TransactionDate': '9/12/2021 22:07:40', 'DetailBills': [], 'FreeTexts': [{'Indonesian': '', 'English': ''}, {'Indonesian': '', 'English': ''}, {'Indonesian': '', 'English': ''}]}
+INFO     [2022-01-12 13:59:24,739] [15688deeebdb4ee99b085db586e87409] - {'CompanyCode': '54321', 'CustomerNumber': '54321000510', 'RequestID': '201507131507262221400000001975', 'ChannelType': '6014', 'CustomerName': 'Customer BCA Virtual Account', 'CurrencyCode': 'IDR', 'PaidAmount': '1400.00', 'TotalAmount': '1400.00', 'SubCompany': '2648', 'TransactionDate': '9/12/2021 22:07:40', 'Reference': '1234567890', 'DetailBills': [], 'FlagAdvice': 'Y', 'AdditionalData': ''}
+INFO     [2022-01-12 13:59:24,740] [15688deeebdb4ee99b085db586e87409] - Payment modul
+INFO     [2022-01-12 13:59:24,741] [15688deeebdb4ee99b085db586e87409] - Client IP : 127.0.0.1
+INFO     [2022-01-12 13:59:24,742] [15688deeebdb4ee99b085db586e87409] - REQUEST : {'CompanyCode': '54321', 'CustomerNumber': '54321000510', 'RequestID': '201507131507262221400000001975', 'ChannelType': '6014', 'CustomerName': 'Customer BCA Virtual Account', 'CurrencyCode': 'IDR', 'PaidAmount': '1400.00', 'TotalAmount': '1400.00', 'SubCompany': '2648', 'TransactionDate': '9/12/2021 22:07:40', 'Reference': '1234567890', 'DetailBills': [], 'FlagAdvice': 'Y', 'AdditionalData': ''}
+INFO     [2022-01-12 13:59:24,774] [15688deeebdb4ee99b085db586e87409] - MT510
+INFO     [2022-01-12 13:59:24,775] [15688deeebdb4ee99b085db586e87409] - id mitra 510
+INFO     [2022-01-12 14:00:04,385] [ae33052937324c4e99b897350c44cdcf] - Topup modul
+INFO     [2022-01-12 14:00:04,386] [ae33052937324c4e99b897350c44cdcf] - Client IP : 127.0.0.1
+INFO     [2022-01-12 14:00:04,387] [ae33052937324c4e99b897350c44cdcf] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': 2, 'amount': 100, 'price': 2}], 'user': 'MT510', 'mitra': 'MT510', 'topup_type': 'PRE', 'invoice': 'INV/370/I/2022'}
+INFO     [2022-01-12 14:00:04,427] [ae33052937324c4e99b897350c44cdcf] - 510
+INFO     [2022-01-12 14:00:04,619] [ae33052937324c4e99b897350c44cdcf] - Eeuser object (1000072)
+INFO     [2022-01-12 14:00:04,863] [ae33052937324c4e99b897350c44cdcf] - RESPONSE : {'status': '00', 'expired_date': datetime.datetime(2022, 1, 12, 19, 0, 4, 725707), 'virtual_account': '54321000510'}
+INFO     [2022-01-12 14:00:18,371] [96366b4a24784e9a8bf114154bf57357] - {'CompanyCode': '54321', 'CustomerNumber': '54321000510', 'RequestID': '201507131507262221400000001975', 'ChannelType': '6014', 'CustomerName': 'Customer BCA Virtual Account', 'CurrencyCode': 'IDR', 'PaidAmount': '1400.00', 'TotalAmount': '1400.00', 'SubCompany': '2648', 'TransactionDate': '9/12/2021 22:07:40', 'Reference': '1234567890', 'DetailBills': [], 'FlagAdvice': 'Y', 'AdditionalData': ''}
+INFO     [2022-01-12 14:00:18,373] [96366b4a24784e9a8bf114154bf57357] - Payment modul
+INFO     [2022-01-12 14:00:18,374] [96366b4a24784e9a8bf114154bf57357] - Client IP : 127.0.0.1
+INFO     [2022-01-12 14:00:18,374] [96366b4a24784e9a8bf114154bf57357] - REQUEST : {'CompanyCode': '54321', 'CustomerNumber': '54321000510', 'RequestID': '201507131507262221400000001975', 'ChannelType': '6014', 'CustomerName': 'Customer BCA Virtual Account', 'CurrencyCode': 'IDR', 'PaidAmount': '1400.00', 'TotalAmount': '1400.00', 'SubCompany': '2648', 'TransactionDate': '9/12/2021 22:07:40', 'Reference': '1234567890', 'DetailBills': [], 'FlagAdvice': 'Y', 'AdditionalData': ''}
+INFO     [2022-01-12 14:00:18,413] [96366b4a24784e9a8bf114154bf57357] - MT510
+INFO     [2022-01-12 14:00:18,414] [96366b4a24784e9a8bf114154bf57357] - id mitra 510
+INFO     [2022-01-12 14:00:18,454] [96366b4a24784e9a8bf114154bf57357] - 2021-12-09 22:07:40
+INFO     [2022-01-12 14:00:18,455] [96366b4a24784e9a8bf114154bf57357] - URL : https://192.168.182.7:1070/BillingAPI/TopupCustom.html
+INFO     [2022-01-12 14:00:18,456] [96366b4a24784e9a8bf114154bf57357] - Request billing payload : {'JSONFile': {'externalkey': 'MT510', 'amount': 100, 'tenant': 'document'}}
+INFO     [2022-01-12 14:00:18,644] [96366b4a24784e9a8bf114154bf57357] - {"JSONFile":{"result":"00","notif":"Success topup","invoiceid":"7b89f360-5da7-493d-99b1-b28789e6593f","current_balance":6496,"log":"4d1e66c3-5597-4afe-af45-ca2858c732d6","datetime":"2022-01-12 14:00:21.944","ptime":"0.09197"}}
+
+INFO     [2022-01-12 14:00:18,731] [96366b4a24784e9a8bf114154bf57357] - Update data topup on API Dashboard
+INFO     [2022-01-12 14:00:18,966] [96366b4a24784e9a8bf114154bf57357] - {"message": "Success", "process_time": 0.2185227870941162}
+INFO     [2022-01-12 14:00:18,967] [96366b4a24784e9a8bf114154bf57357] - Done
+INFO     [2022-01-12 14:00:18,969] [96366b4a24784e9a8bf114154bf57357] - RESPONSE : {'CompanyCode': '54321', 'CustomerNumber': '54321000510', 'RequestID': '201507131507262221400000001975', 'PaymentFlagStatus': '01', 'PaymentFlagReason': {'Indonesian': 'TotalAmount tidak sama dengan tagihan', 'English': 'TotalAmount not the same as the bill'}, 'CustomerName': 'PT Visionet Internasional (OVO)', 'CurrencyCode': 'IDR', 'PaidAmount': '1400.00', 'TotalAmount': '1400.00', 'TransactionDate': '9/12/2021 22:07:40', 'DetailBills': [], 'FreeTexts': [{'Indonesian': '', 'English': ''}, {'Indonesian': '', 'English': ''}, {'Indonesian': '', 'English': ''}]}
+INFO     [2022-01-12 14:02:03,737] [92091a7d1d83411c8a1e36409f852334] - Topup modul
+INFO     [2022-01-12 14:02:03,738] [92091a7d1d83411c8a1e36409f852334] - Client IP : 127.0.0.1
+INFO     [2022-01-12 14:02:03,739] [92091a7d1d83411c8a1e36409f852334] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': 2, 'amount': 100, 'price': 2}], 'user': 'MT510', 'mitra': 'MT510', 'topup_type': 'PRE', 'invoice': 'INV/371/I/2022'}
+INFO     [2022-01-12 14:02:03,780] [92091a7d1d83411c8a1e36409f852334] - 510
+INFO     [2022-01-12 14:02:03,961] [92091a7d1d83411c8a1e36409f852334] - Eeuser object (1000072)
+INFO     [2022-01-12 14:02:04,097] [92091a7d1d83411c8a1e36409f852334] - RESPONSE : {'status': '00', 'expired_date': datetime.datetime(2022, 1, 12, 19, 2, 4, 33141), 'virtual_account': '54321000510'}
+INFO     [2022-01-12 14:02:17,451] [7e78f8d6c1c14561a09491f6e489c907] - {'CompanyCode': '54321', 'CustomerNumber': '54321000510', 'RequestID': '201507131507262221400000001975', 'ChannelType': '6014', 'CustomerName': 'Customer BCA Virtual Account', 'CurrencyCode': 'IDR', 'PaidAmount': '1400.00', 'TotalAmount': '1400.00', 'SubCompany': '2648', 'TransactionDate': '9/12/2021 22:07:40', 'Reference': '1234567890', 'DetailBills': [], 'FlagAdvice': 'Y', 'AdditionalData': ''}
+INFO     [2022-01-12 14:02:17,452] [7e78f8d6c1c14561a09491f6e489c907] - Payment modul
+INFO     [2022-01-12 14:02:17,453] [7e78f8d6c1c14561a09491f6e489c907] - Client IP : 127.0.0.1
+INFO     [2022-01-12 14:02:17,454] [7e78f8d6c1c14561a09491f6e489c907] - REQUEST : {'CompanyCode': '54321', 'CustomerNumber': '54321000510', 'RequestID': '201507131507262221400000001975', 'ChannelType': '6014', 'CustomerName': 'Customer BCA Virtual Account', 'CurrencyCode': 'IDR', 'PaidAmount': '1400.00', 'TotalAmount': '1400.00', 'SubCompany': '2648', 'TransactionDate': '9/12/2021 22:07:40', 'Reference': '1234567890', 'DetailBills': [], 'FlagAdvice': 'Y', 'AdditionalData': ''}
+INFO     [2022-01-12 14:02:17,492] [7e78f8d6c1c14561a09491f6e489c907] - MT510
+INFO     [2022-01-12 14:02:17,493] [7e78f8d6c1c14561a09491f6e489c907] - id mitra 510
+INFO     [2022-01-12 14:02:53,475] [e5efe419642c49859e86a5dcbfc658cc] - {'CompanyCode': '123123123', 'CustomerNumber': '54321000510', 'RequestID': '201507131507262221400000001975', 'ChannelType': '6014', 'TransactionDate': '15/03/2014 22:07:40', 'AdditionalData': ''}
+INFO     [2022-01-12 14:02:53,476] [e5efe419642c49859e86a5dcbfc658cc] - Bill modul
+INFO     [2022-01-12 14:02:53,477] [e5efe419642c49859e86a5dcbfc658cc] - Client IP : 127.0.0.1
+INFO     [2022-01-12 14:02:53,478] [e5efe419642c49859e86a5dcbfc658cc] - REQUEST : {'CompanyCode': '123123123', 'CustomerNumber': '54321000510', 'RequestID': '201507131507262221400000001975', 'ChannelType': '6014', 'TransactionDate': '15/03/2014 22:07:40', 'AdditionalData': ''}
+INFO     [2022-01-12 14:03:05,816] [edac6b863d3b47848c988696b0f8d6d0] - {'CompanyCode': '54321', 'CustomerNumber': '54321000510', 'RequestID': '201507131507262221400000001975', 'ChannelType': '6014', 'TransactionDate': '15/03/2014 22:07:40', 'AdditionalData': ''}
+INFO     [2022-01-12 14:03:05,817] [edac6b863d3b47848c988696b0f8d6d0] - Bill modul
+INFO     [2022-01-12 14:03:05,818] [edac6b863d3b47848c988696b0f8d6d0] - Client IP : 127.0.0.1
+INFO     [2022-01-12 14:03:05,819] [edac6b863d3b47848c988696b0f8d6d0] - REQUEST : {'CompanyCode': '54321', 'CustomerNumber': '54321000510', 'RequestID': '201507131507262221400000001975', 'ChannelType': '6014', 'TransactionDate': '15/03/2014 22:07:40', 'AdditionalData': ''}
+INFO     [2022-01-12 14:03:05,851] [edac6b863d3b47848c988696b0f8d6d0] - MT510
+INFO     [2022-01-12 14:03:05,852] [edac6b863d3b47848c988696b0f8d6d0] - id mitra 510
+INFO     [2022-01-12 14:03:05,886] [edac6b863d3b47848c988696b0f8d6d0] - {'BillDescription': {'Indonesian': 'Dokumen', 'English': 'Document'}, 'BillAmount': '200.00', 'BillNumber': 2735, 'BillSubCompany': 2735}
+INFO     [2022-01-12 14:03:05,899] [edac6b863d3b47848c988696b0f8d6d0] - RESPONSE : {'CompanyCode': '54321', 'CustomerNumber': '54321000510', 'RequestID': '201507131507262221400000001975', 'InquiryStatus': '00', 'InquiryReason': {'Indonesian': 'Sukses', 'English': 'Success'}, 'CustomerName': 'PT Visionet Internasional (OVO)', 'CurrencyCode': 'IDR', 'TotalAmount': '200.00', 'SubCompany': 2735, 'DetailBills': [{'BillDescription': {'Indonesian': 'Dokumen', 'English': 'Document'}, 'BillAmount': '200.00', 'BillNumber': 2735, 'BillSubCompany': 2735}], 'FreeTexts': [[{'Indonesian': 'Pembelian produk Digisign', 'English': 'Purchase Digisign products'}, {'Indonesian': 'INV/371/I/2022', 'English': 'INV/371/I/2022'}]], 'AdditionalData': ''}
+INFO     [2022-01-12 14:03:20,809] [52f1d0c5b56e4f6db82d64d4bee7080c] - {'CompanyCode': '54321', 'CustomerNumber': '54321000510', 'RequestID': '201507131507262221400000001975', 'ChannelType': '6014', 'CustomerName': 'Customer BCA Virtual Account', 'CurrencyCode': 'IDR', 'PaidAmount': '200.00', 'TotalAmount': '200.00', 'SubCompany': '2648', 'TransactionDate': '9/12/2021 22:07:40', 'Reference': '1234567890', 'DetailBills': [], 'FlagAdvice': 'Y', 'AdditionalData': ''}
+INFO     [2022-01-12 14:03:20,811] [52f1d0c5b56e4f6db82d64d4bee7080c] - Payment modul
+INFO     [2022-01-12 14:03:20,812] [52f1d0c5b56e4f6db82d64d4bee7080c] - Client IP : 127.0.0.1
+INFO     [2022-01-12 14:03:20,813] [52f1d0c5b56e4f6db82d64d4bee7080c] - REQUEST : {'CompanyCode': '54321', 'CustomerNumber': '54321000510', 'RequestID': '201507131507262221400000001975', 'ChannelType': '6014', 'CustomerName': 'Customer BCA Virtual Account', 'CurrencyCode': 'IDR', 'PaidAmount': '200.00', 'TotalAmount': '200.00', 'SubCompany': '2648', 'TransactionDate': '9/12/2021 22:07:40', 'Reference': '1234567890', 'DetailBills': [], 'FlagAdvice': 'Y', 'AdditionalData': ''}
+INFO     [2022-01-12 14:03:20,849] [52f1d0c5b56e4f6db82d64d4bee7080c] - MT510
+INFO     [2022-01-12 14:03:20,850] [52f1d0c5b56e4f6db82d64d4bee7080c] - id mitra 510
+INFO     [2022-01-12 14:03:20,882] [52f1d0c5b56e4f6db82d64d4bee7080c] - 2021-12-09 22:07:40
+INFO     [2022-01-12 14:03:20,883] [52f1d0c5b56e4f6db82d64d4bee7080c] - URL : https://192.168.182.7:1070/BillingAPI/TopupCustom.html
+INFO     [2022-01-12 14:03:20,884] [52f1d0c5b56e4f6db82d64d4bee7080c] - Request billing payload : {'JSONFile': {'externalkey': 'MT510', 'amount': 100, 'tenant': 'document'}}
+INFO     [2022-01-12 14:03:21,048] [52f1d0c5b56e4f6db82d64d4bee7080c] - {"JSONFile":{"result":"00","notif":"Success topup","invoiceid":"676f627d-f24b-4c9a-81a8-3c34c20423be","current_balance":6596,"log":"bfaf6992-fa8b-418d-966b-c6000546d927","datetime":"2022-01-12 14:03:24.393","ptime":"0.05249"}}
+
+INFO     [2022-01-12 14:03:21,130] [52f1d0c5b56e4f6db82d64d4bee7080c] - Update data topup on API Dashboard
+INFO     [2022-01-12 14:03:21,356] [52f1d0c5b56e4f6db82d64d4bee7080c] - {"message": "Success", "process_time": 0.2044239044189453}
+INFO     [2022-01-12 14:03:21,357] [52f1d0c5b56e4f6db82d64d4bee7080c] - Done
+INFO     [2022-01-12 14:03:21,358] [52f1d0c5b56e4f6db82d64d4bee7080c] - RESPONSE : {'CompanyCode': '54321', 'CustomerNumber': '54321000510', 'RequestID': '201507131507262221400000001975', 'PaymentFlagStatus': '00', 'PaymentFlagReason': {'Indonesian': 'Sukses', 'English': 'Success'}, 'CustomerName': 'PT Visionet Internasional (OVO)', 'CurrencyCode': 'IDR', 'PaidAmount': '200.00', 'TotalAmount': '200.00', 'TransactionDate': '9/12/2021 22:07:40', 'DetailBills': [], 'FreeTexts': [{'Indonesian': '', 'English': ''}, {'Indonesian': '', 'English': ''}, {'Indonesian': '', 'English': ''}]}
+INFO     [2022-01-12 14:05:12,015] [9025491a029a45e797b6bb9ab2db2250] - Topup modul
+INFO     [2022-01-12 14:05:12,016] [9025491a029a45e797b6bb9ab2db2250] - Client IP : 127.0.0.1
+INFO     [2022-01-12 14:05:12,017] [9025491a029a45e797b6bb9ab2db2250] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': 2, 'amount': 100, 'price': 2}], 'user': 'MT510', 'mitra': 'MT510', 'topup_type': 'PRE', 'invoice': 'INV/372/I/2022'}
+INFO     [2022-01-12 14:05:12,046] [9025491a029a45e797b6bb9ab2db2250] - 510
+INFO     [2022-01-12 14:05:12,111] [9025491a029a45e797b6bb9ab2db2250] - Eeuser object (1000072)
+INFO     [2022-01-12 14:05:12,218] [9025491a029a45e797b6bb9ab2db2250] - RESPONSE : {'status': '00', 'expired_date': datetime.datetime(2022, 1, 12, 19, 5, 12, 160205), 'virtual_account': '54321000510'}
+INFO     [2022-01-12 14:11:55,108] [26e1a7933a8a4e57ae46908c56ff5d4a] - Topup modul
+INFO     [2022-01-12 14:11:55,109] [26e1a7933a8a4e57ae46908c56ff5d4a] - Client IP : 127.0.0.1
+INFO     [2022-01-12 14:11:55,110] [26e1a7933a8a4e57ae46908c56ff5d4a] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': 2, 'amount': 100, 'price': 2}], 'user': 'MT510', 'mitra': 'MT510', 'topup_type': 'PRE', 'invoice': 'INV/373/I/2022'}
+INFO     [2022-01-12 14:11:55,140] [26e1a7933a8a4e57ae46908c56ff5d4a] - 510
+INFO     [2022-01-12 14:11:55,199] [26e1a7933a8a4e57ae46908c56ff5d4a] - Eeuser object (1000072)
+INFO     [2022-01-12 14:12:02,433] [ef6e40d92cdb4bf0b9006b1de212eb69] - {'CompanyCode': '54321', 'CustomerNumber': '54321000510', 'RequestID': '201507131507262221400000001975', 'ChannelType': '6014', 'CustomerName': 'Customer BCA Virtual Account', 'CurrencyCode': 'IDR', 'PaidAmount': '200.00', 'TotalAmount': '200.00', 'SubCompany': '2648', 'TransactionDate': '9/12/2021 22:07:40', 'Reference': '1234567890', 'DetailBills': [], 'FlagAdvice': 'Y', 'AdditionalData': ''}
+INFO     [2022-01-12 14:12:02,435] [ef6e40d92cdb4bf0b9006b1de212eb69] - Payment modul
+INFO     [2022-01-12 14:12:02,435] [ef6e40d92cdb4bf0b9006b1de212eb69] - Client IP : 127.0.0.1
+INFO     [2022-01-12 14:12:02,436] [ef6e40d92cdb4bf0b9006b1de212eb69] - REQUEST : {'CompanyCode': '54321', 'CustomerNumber': '54321000510', 'RequestID': '201507131507262221400000001975', 'ChannelType': '6014', 'CustomerName': 'Customer BCA Virtual Account', 'CurrencyCode': 'IDR', 'PaidAmount': '200.00', 'TotalAmount': '200.00', 'SubCompany': '2648', 'TransactionDate': '9/12/2021 22:07:40', 'Reference': '1234567890', 'DetailBills': [], 'FlagAdvice': 'Y', 'AdditionalData': ''}
+INFO     [2022-01-12 14:12:02,673] [ef6e40d92cdb4bf0b9006b1de212eb69] - MT510
+INFO     [2022-01-12 14:12:02,674] [ef6e40d92cdb4bf0b9006b1de212eb69] - id mitra 510
+INFO     [2022-01-12 14:12:02,755] [ef6e40d92cdb4bf0b9006b1de212eb69] - 2021-12-09 22:07:40
+INFO     [2022-01-12 14:12:02,757] [ef6e40d92cdb4bf0b9006b1de212eb69] - URL : https://192.168.182.7:1070/BillingAPI/TopupCustom.html
+INFO     [2022-01-12 14:12:02,758] [ef6e40d92cdb4bf0b9006b1de212eb69] - Request billing payload : {'JSONFile': {'externalkey': 'MT510', 'amount': 100, 'tenant': 'document'}}
+INFO     [2022-01-12 14:12:03,111] [ef6e40d92cdb4bf0b9006b1de212eb69] - {"JSONFile":{"result":"00","notif":"Success topup","invoiceid":"246a111d-e8e0-4378-846d-010efcfa650b","current_balance":6696,"log":"6d3839f3-3e7f-479d-9a24-dad92f9dd19d","datetime":"2022-01-12 14:12:06.300","ptime":"0.21398"}}
+
+INFO     [2022-01-12 14:12:03,282] [ef6e40d92cdb4bf0b9006b1de212eb69] - Update data topup on API Dashboard
+INFO     [2022-01-12 14:12:03,692] [ef6e40d92cdb4bf0b9006b1de212eb69] - {"message": "Success", "process_time": 0.3930838108062744}
+INFO     [2022-01-12 14:12:03,693] [ef6e40d92cdb4bf0b9006b1de212eb69] - Done
+INFO     [2022-01-12 14:12:03,695] [ef6e40d92cdb4bf0b9006b1de212eb69] - RESPONSE : {'CompanyCode': '54321', 'CustomerNumber': '54321000510', 'RequestID': '201507131507262221400000001975', 'PaymentFlagStatus': '00', 'PaymentFlagReason': {'Indonesian': 'Sukses', 'English': 'Success'}, 'CustomerName': 'PT Visionet Internasional (OVO)', 'CurrencyCode': 'IDR', 'PaidAmount': '200.00', 'TotalAmount': '200.00', 'TransactionDate': '9/12/2021 22:07:40', 'DetailBills': [], 'FreeTexts': [{'Indonesian': '', 'English': ''}, {'Indonesian': '', 'English': ''}, {'Indonesian': '', 'English': ''}]}
+INFO     [2022-01-12 14:12:15,650] [4225bd5c124c437a8cb3fce01e031268] - Topup modul
+INFO     [2022-01-12 14:12:15,650] [4225bd5c124c437a8cb3fce01e031268] - Client IP : 127.0.0.1
+INFO     [2022-01-12 14:12:15,651] [4225bd5c124c437a8cb3fce01e031268] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': 2, 'amount': 100, 'price': 2}], 'user': 'MT510', 'mitra': 'MT510', 'topup_type': 'PRE', 'invoice': 'INV/373/I/2022'}
+INFO     [2022-01-12 14:12:15,679] [4225bd5c124c437a8cb3fce01e031268] - 510
+INFO     [2022-01-12 14:12:15,743] [4225bd5c124c437a8cb3fce01e031268] - Eeuser object (1000072)
+INFO     [2022-01-12 14:12:15,847] [4225bd5c124c437a8cb3fce01e031268] - RESPONSE : {'status': '00', 'expired_date': datetime.datetime(2022, 1, 12, 19, 12, 15, 782657), 'virtual_account': '54321000510'}
+INFO     [2022-01-12 14:12:49,655] [ab65bcf9782c49a586d2751b1fe21bca] - {'CompanyCode': '54321', 'CustomerNumber': '54321000510', 'RequestID': '201507131507262221400000001975', 'ChannelType': '6014', 'CustomerName': 'Customer BCA Virtual Account', 'CurrencyCode': 'IDR', 'PaidAmount': '200.00', 'TotalAmount': '200.00', 'SubCompany': '2648', 'TransactionDate': '9/12/2021 22:07:40', 'Reference': '1234567890', 'DetailBills': [], 'FlagAdvice': 'Y', 'AdditionalData': ''}
+INFO     [2022-01-12 14:12:49,657] [ab65bcf9782c49a586d2751b1fe21bca] - Payment modul
+INFO     [2022-01-12 14:12:49,658] [ab65bcf9782c49a586d2751b1fe21bca] - Client IP : 127.0.0.1
+INFO     [2022-01-12 14:12:49,659] [ab65bcf9782c49a586d2751b1fe21bca] - REQUEST : {'CompanyCode': '54321', 'CustomerNumber': '54321000510', 'RequestID': '201507131507262221400000001975', 'ChannelType': '6014', 'CustomerName': 'Customer BCA Virtual Account', 'CurrencyCode': 'IDR', 'PaidAmount': '200.00', 'TotalAmount': '200.00', 'SubCompany': '2648', 'TransactionDate': '9/12/2021 22:07:40', 'Reference': '1234567890', 'DetailBills': [], 'FlagAdvice': 'Y', 'AdditionalData': ''}
+INFO     [2022-01-12 14:12:49,694] [ab65bcf9782c49a586d2751b1fe21bca] - MT510
+INFO     [2022-01-12 14:12:49,695] [ab65bcf9782c49a586d2751b1fe21bca] - id mitra 510
+INFO     [2022-01-12 14:12:49,723] [ab65bcf9782c49a586d2751b1fe21bca] - 2021-12-09 22:07:40
+INFO     [2022-01-12 14:12:49,724] [ab65bcf9782c49a586d2751b1fe21bca] - URL : https://192.168.182.7:1070/BillingAPI/TopupCustom.html
+INFO     [2022-01-12 14:12:49,725] [ab65bcf9782c49a586d2751b1fe21bca] - Request billing payload : {'JSONFile': {'externalkey': 'MT510', 'amount': 100, 'tenant': 'document'}}
+INFO     [2022-01-12 14:12:49,877] [ab65bcf9782c49a586d2751b1fe21bca] - {"JSONFile":{"result":"00","notif":"Success topup","invoiceid":"5e913019-f06d-49cd-9835-a04e6870eb63","current_balance":6796,"log":"decddb65-1410-443b-ae1e-19273629b8f3","datetime":"2022-01-12 14:12:53.241","ptime":"0.05238"}}
+
+INFO     [2022-01-12 14:12:50,054] [ab65bcf9782c49a586d2751b1fe21bca] - Update data topup on API Dashboard
+ERROR    [2022-01-12 14:12:50,111] [ab65bcf9782c49a586d2751b1fe21bca] - None
+INFO     [2022-01-12 14:12:50,112] [ab65bcf9782c49a586d2751b1fe21bca] - Done
+INFO     [2022-01-12 14:12:50,113] [ab65bcf9782c49a586d2751b1fe21bca] - RESPONSE : {'CompanyCode': '54321', 'CustomerNumber': '54321000510', 'RequestID': '201507131507262221400000001975', 'PaymentFlagStatus': '00', 'PaymentFlagReason': {'Indonesian': 'Sukses', 'English': 'Success'}, 'CustomerName': 'PT Visionet Internasional (OVO)', 'CurrencyCode': 'IDR', 'PaidAmount': '200.00', 'TotalAmount': '200.00', 'TransactionDate': '9/12/2021 22:07:40', 'DetailBills': [], 'FreeTexts': [{'Indonesian': '', 'English': ''}, {'Indonesian': '', 'English': ''}, {'Indonesian': '', 'English': ''}]}
+INFO     [2022-01-12 14:12:57,729] [5eca5c8393c44528b5b96e6721a20048] - Topup modul
+INFO     [2022-01-12 14:12:57,730] [5eca5c8393c44528b5b96e6721a20048] - Client IP : 127.0.0.1
+INFO     [2022-01-12 14:12:57,731] [5eca5c8393c44528b5b96e6721a20048] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': 2, 'amount': 100, 'price': 2}], 'user': 'MT510', 'mitra': 'MT510', 'topup_type': 'PRE', 'invoice': 'INV/373/I/2022'}
+INFO     [2022-01-12 14:12:57,756] [5eca5c8393c44528b5b96e6721a20048] - 510
+INFO     [2022-01-12 14:12:57,853] [5eca5c8393c44528b5b96e6721a20048] - Eeuser object (1000072)
+INFO     [2022-01-12 14:12:57,990] [5eca5c8393c44528b5b96e6721a20048] - RESPONSE : {'status': '00', 'expired_date': datetime.datetime(2022, 1, 12, 19, 12, 57, 905349), 'virtual_account': '54321000510'}
+INFO     [2022-01-12 14:13:39,080] [32b07999906942a3ad3335b66f674fcb] - {'CompanyCode': '54321', 'CustomerNumber': '54321000510', 'RequestID': '201507131507262221400000001975', 'ChannelType': '6014', 'CustomerName': 'Customer BCA Virtual Account', 'CurrencyCode': 'IDR', 'PaidAmount': '200.00', 'TotalAmount': '200.00', 'SubCompany': '2648', 'TransactionDate': '9/12/2021 22:07:40', 'Reference': '1234567890', 'DetailBills': [], 'FlagAdvice': 'Y', 'AdditionalData': ''}
+INFO     [2022-01-12 14:13:39,081] [32b07999906942a3ad3335b66f674fcb] - Payment modul
+INFO     [2022-01-12 14:13:39,082] [32b07999906942a3ad3335b66f674fcb] - Client IP : 127.0.0.1
+INFO     [2022-01-12 14:13:39,083] [32b07999906942a3ad3335b66f674fcb] - REQUEST : {'CompanyCode': '54321', 'CustomerNumber': '54321000510', 'RequestID': '201507131507262221400000001975', 'ChannelType': '6014', 'CustomerName': 'Customer BCA Virtual Account', 'CurrencyCode': 'IDR', 'PaidAmount': '200.00', 'TotalAmount': '200.00', 'SubCompany': '2648', 'TransactionDate': '9/12/2021 22:07:40', 'Reference': '1234567890', 'DetailBills': [], 'FlagAdvice': 'Y', 'AdditionalData': ''}
+INFO     [2022-01-12 14:13:39,121] [32b07999906942a3ad3335b66f674fcb] - MT510
+INFO     [2022-01-12 14:13:39,121] [32b07999906942a3ad3335b66f674fcb] - id mitra 510
+INFO     [2022-01-12 14:13:39,149] [32b07999906942a3ad3335b66f674fcb] - 2021-12-09 22:07:40
+INFO     [2022-01-12 14:13:39,150] [32b07999906942a3ad3335b66f674fcb] - URL : https://192.168.182.7:1070/BillingAPI/TopupCustom.html
+INFO     [2022-01-12 14:13:39,151] [32b07999906942a3ad3335b66f674fcb] - Request billing payload : {'JSONFile': {'externalkey': 'MT510', 'amount': 100, 'tenant': 'document'}}
+INFO     [2022-01-12 14:13:39,541] [32b07999906942a3ad3335b66f674fcb] - {"JSONFile":{"result":"00","notif":"Success topup","invoiceid":"70e495f1-76da-4bed-8f09-284d932cded1","current_balance":6896,"log":"6cb94463-47a7-4ea5-a9de-78619fae660c","datetime":"2022-01-12 14:13:42.665","ptime":"0.29748"}}
+
+INFO     [2022-01-12 14:13:39,693] [32b07999906942a3ad3335b66f674fcb] - Update data topup on API Dashboard
+INFO     [2022-01-12 14:13:39,916] [32b07999906942a3ad3335b66f674fcb] - {"message": "Success", "process_time": 0.20812630653381348}
+INFO     [2022-01-12 14:13:39,917] [32b07999906942a3ad3335b66f674fcb] - Done
+INFO     [2022-01-12 14:13:39,918] [32b07999906942a3ad3335b66f674fcb] - RESPONSE : {'CompanyCode': '54321', 'CustomerNumber': '54321000510', 'RequestID': '201507131507262221400000001975', 'PaymentFlagStatus': '00', 'PaymentFlagReason': {'Indonesian': 'Sukses', 'English': 'Success'}, 'CustomerName': 'PT Visionet Internasional (OVO)', 'CurrencyCode': 'IDR', 'PaidAmount': '200.00', 'TotalAmount': '200.00', 'TransactionDate': '9/12/2021 22:07:40', 'DetailBills': [], 'FreeTexts': [{'Indonesian': '', 'English': ''}, {'Indonesian': '', 'English': ''}, {'Indonesian': '', 'English': ''}]}
+INFO     [2022-01-13 14:09:42,576] [a8dd925e12d2439aac2bfd38534b8853] - Topup modul
+INFO     [2022-01-13 14:09:42,584] [a8dd925e12d2439aac2bfd38534b8853] - Client IP : 127.0.0.1
+INFO     [2022-01-13 14:09:42,586] [a8dd925e12d2439aac2bfd38534b8853] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': '1', 'amount': '10', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}], 'user': 'MT2', 'mitra': 'MT1', 'topup_type': 'PRE'}
+INFO     [2022-01-13 14:09:42,611] [a8dd925e12d2439aac2bfd38534b8853] - 1
+INFO     [2022-01-13 14:09:42,681] [a8dd925e12d2439aac2bfd38534b8853] - Eeuser object (19389)
+INFO     [2022-01-13 14:09:42,702] [a8dd925e12d2439aac2bfd38534b8853] - 02
+INFO     [2022-01-13 14:09:43,265] [a8dd925e12d2439aac2bfd38534b8853] - RESPONSE : {'status': '00', 'expired_date': datetime.datetime(2022, 1, 13, 19, 9, 43, 89484), 'virtual_account': '13764'}
+INFO     [2022-01-13 14:10:51,026] [669f6450d40f45b69df7502a6feb1bd7] - Topup modul
+INFO     [2022-01-13 14:10:51,027] [669f6450d40f45b69df7502a6feb1bd7] - Client IP : 127.0.0.1
+INFO     [2022-01-13 14:10:51,027] [669f6450d40f45b69df7502a6feb1bd7] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': '1', 'amount': '10', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}], 'user': 'MT2', 'mitra': 'MT1', 'topup_type': 'PRE'}
+INFO     [2022-01-13 14:10:51,051] [669f6450d40f45b69df7502a6feb1bd7] - 1
+INFO     [2022-01-13 14:10:51,113] [669f6450d40f45b69df7502a6feb1bd7] - Eeuser object (19389)
+INFO     [2022-01-13 14:10:51,141] [669f6450d40f45b69df7502a6feb1bd7] - 02
+INFO     [2022-01-13 14:11:36,460] [65a497fa328e409b987bdb0cb7553de6] - Topup modul
+INFO     [2022-01-13 14:11:36,464] [65a497fa328e409b987bdb0cb7553de6] - Client IP : 127.0.0.1
+INFO     [2022-01-13 14:11:36,468] [65a497fa328e409b987bdb0cb7553de6] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': '1', 'amount': '10', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}], 'user': 'MT2', 'mitra': 'MT1', 'topup_type': 'PRE'}
+INFO     [2022-01-13 14:11:36,549] [65a497fa328e409b987bdb0cb7553de6] - 1
+INFO     [2022-01-13 14:11:36,700] [65a497fa328e409b987bdb0cb7553de6] - Eeuser object (19389)
+INFO     [2022-01-13 14:11:36,871] [65a497fa328e409b987bdb0cb7553de6] - 13764
+INFO     [2022-01-13 14:12:10,999] [a34ba4dacf604ee89f2e77f016d3864b] - Topup modul
+INFO     [2022-01-13 14:12:11,001] [a34ba4dacf604ee89f2e77f016d3864b] - Client IP : 127.0.0.1
+INFO     [2022-01-13 14:12:11,002] [a34ba4dacf604ee89f2e77f016d3864b] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': '1', 'amount': '10', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}], 'user': 'MT2', 'mitra': 'MT1', 'topup_type': 'PRE'}
+INFO     [2022-01-13 14:12:11,027] [a34ba4dacf604ee89f2e77f016d3864b] - 1
+INFO     [2022-01-13 14:12:11,080] [a34ba4dacf604ee89f2e77f016d3864b] - Eeuser object (19389)
+INFO     [2022-01-13 14:12:11,107] [a34ba4dacf604ee89f2e77f016d3864b] - 1376202
+INFO     [2022-01-13 14:12:11,409] [a34ba4dacf604ee89f2e77f016d3864b] - RESPONSE : {'status': '00', 'expired_date': datetime.datetime(2022, 1, 13, 19, 12, 11, 128528), 'virtual_account': 1376202}
+INFO     [2022-01-13 14:12:51,049] [e7189f2408ce4cdbbdd5bced76738077] - Topup modul
+INFO     [2022-01-13 14:12:51,051] [e7189f2408ce4cdbbdd5bced76738077] - Client IP : 127.0.0.1
+INFO     [2022-01-13 14:12:51,056] [e7189f2408ce4cdbbdd5bced76738077] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': '1', 'amount': '10', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}], 'user': 'ID2', 'mitra': 'MT1', 'topup_type': 'PRE'}
+INFO     [2022-01-13 14:12:51,098] [e7189f2408ce4cdbbdd5bced76738077] - 1
+INFO     [2022-01-13 14:13:00,161] [3ee60ecefe1741c7b008e7bcb91d8974] - Topup modul
+INFO     [2022-01-13 14:13:00,162] [3ee60ecefe1741c7b008e7bcb91d8974] - Client IP : 127.0.0.1
+INFO     [2022-01-13 14:13:00,163] [3ee60ecefe1741c7b008e7bcb91d8974] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': '1', 'amount': '10', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}], 'user': 'ID1', 'mitra': 'MT1', 'topup_type': 'PRE'}
+INFO     [2022-01-13 14:13:00,245] [3ee60ecefe1741c7b008e7bcb91d8974] - 1
+INFO     [2022-01-13 14:13:00,484] [3ee60ecefe1741c7b008e7bcb91d8974] - 1376208562144666
+INFO     [2022-01-13 14:13:00,824] [3ee60ecefe1741c7b008e7bcb91d8974] - RESPONSE : {'status': '00', 'expired_date': datetime.datetime(2022, 1, 13, 19, 13, 0, 516984), 'virtual_account': '1376208562144666'}
+INFO     [2022-01-13 14:16:21,322] [10d90c87d29748cd9ba0ffead6717f8a] - Topup modul
+INFO     [2022-01-13 14:16:21,323] [10d90c87d29748cd9ba0ffead6717f8a] - Client IP : 127.0.0.1
+INFO     [2022-01-13 14:16:21,324] [10d90c87d29748cd9ba0ffead6717f8a] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': '1', 'amount': '10', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}], 'user': 'MT1', 'mitra': 'MT1', 'topup_type': 'PRE'}
+INFO     [2022-01-13 14:16:21,351] [10d90c87d29748cd9ba0ffead6717f8a] - 1
+INFO     [2022-01-13 14:16:21,396] [10d90c87d29748cd9ba0ffead6717f8a] - Eeuser object (957)
+INFO     [2022-01-13 14:16:21,423] [10d90c87d29748cd9ba0ffead6717f8a] - 1376201
+INFO     [2022-01-13 14:16:21,719] [10d90c87d29748cd9ba0ffead6717f8a] - RESPONSE : {'status': '00', 'expired_date': datetime.datetime(2022, 1, 13, 19, 16, 21, 463555), 'virtual_account': '1376201'}
+INFO     [2022-01-13 14:54:57,397] [37c8c2422f804fbd9a041f0993e7843e] - Topup modul
+INFO     [2022-01-13 14:54:57,398] [37c8c2422f804fbd9a041f0993e7843e] - Client IP : 127.0.0.1
+INFO     [2022-01-13 14:54:57,400] [37c8c2422f804fbd9a041f0993e7843e] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': 7, 'amount': 2132, 'price': 233}], 'user': 'MT510', 'mitra': 'MT510', 'topup_type': 'PRE', 'invoice': 'PFI/390/I/2022'}
+INFO     [2022-01-13 14:54:57,423] [37c8c2422f804fbd9a041f0993e7843e] - 510
+INFO     [2022-01-13 14:54:57,503] [37c8c2422f804fbd9a041f0993e7843e] - Eeuser object (1000072)
+INFO     [2022-01-13 14:54:57,538] [37c8c2422f804fbd9a041f0993e7843e] - 1376200000000510
+INFO     [2022-01-13 14:54:57,683] [37c8c2422f804fbd9a041f0993e7843e] - RESPONSE : {'status': '00', 'expired_date': datetime.datetime(2022, 1, 13, 19, 54, 57, 603977), 'virtual_account': '1376200000000510'}
+INFO     [2022-01-13 14:55:40,993] [d6706f369bef4796b03065b5927892ce] - Topup modul
+INFO     [2022-01-13 14:55:41,008] [d6706f369bef4796b03065b5927892ce] - Client IP : 127.0.0.1
+INFO     [2022-01-13 14:55:41,035] [d6706f369bef4796b03065b5927892ce] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': 7, 'amount': 2132, 'price': 233}], 'user': 'MT510', 'mitra': 'MT510', 'topup_type': 'PRE', 'invoice': 'PFI/390/I/2022'}
+INFO     [2022-01-13 14:55:41,157] [d6706f369bef4796b03065b5927892ce] - 510
+INFO     [2022-01-13 14:55:41,270] [d6706f369bef4796b03065b5927892ce] - Eeuser object (1000072)
+INFO     [2022-01-13 14:55:41,308] [d6706f369bef4796b03065b5927892ce] - 1376200000000510
+INFO     [2022-01-13 14:55:51,904] [f73995c4a05c4e6abd37b2fa89fb152a] - Topup modul
+INFO     [2022-01-13 14:55:51,905] [f73995c4a05c4e6abd37b2fa89fb152a] - Client IP : 127.0.0.1
+INFO     [2022-01-13 14:55:51,906] [f73995c4a05c4e6abd37b2fa89fb152a] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': 7, 'amount': 2132, 'price': 233}], 'user': 'MT510', 'mitra': 'MT510', 'topup_type': 'PRE', 'invoice': 'PFI/391/I/2022'}
+INFO     [2022-01-13 14:55:51,940] [f73995c4a05c4e6abd37b2fa89fb152a] - 510
+INFO     [2022-01-13 14:55:52,033] [f73995c4a05c4e6abd37b2fa89fb152a] - Eeuser object (1000072)
+INFO     [2022-01-13 14:55:52,088] [f73995c4a05c4e6abd37b2fa89fb152a] - 1376200000000510
+INFO     [2022-01-13 14:57:17,144] [305de471fd7f410f9fc1e0aac6bf8520] - Topup modul
+INFO     [2022-01-13 14:57:17,145] [305de471fd7f410f9fc1e0aac6bf8520] - Client IP : 127.0.0.1
+INFO     [2022-01-13 14:57:17,146] [305de471fd7f410f9fc1e0aac6bf8520] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': 7, 'amount': 2132, 'price': 233}], 'user': 'MT510', 'mitra': 'MT510', 'topup_type': 'PRE', 'invoice': 'PFI/391/I/2022'}
+INFO     [2022-01-13 14:57:17,215] [305de471fd7f410f9fc1e0aac6bf8520] - 510
+INFO     [2022-01-13 14:57:17,362] [305de471fd7f410f9fc1e0aac6bf8520] - Eeuser object (1000072)
+INFO     [2022-01-13 14:57:17,426] [305de471fd7f410f9fc1e0aac6bf8520] - 1376200000000510
+INFO     [2022-01-13 14:57:17,708] [305de471fd7f410f9fc1e0aac6bf8520] - RESPONSE : {'status': '00', 'expired_date': datetime.datetime(2022, 1, 13, 19, 57, 17, 463330), 'virtual_account': '1376200000000510'}
+INFO     [2022-01-13 14:58:51,802] [ef8f4545fb5d4eb89ad5017adcb98797] - Topup modul
+INFO     [2022-01-13 14:58:51,803] [ef8f4545fb5d4eb89ad5017adcb98797] - Client IP : 127.0.0.1
+INFO     [2022-01-13 14:58:51,804] [ef8f4545fb5d4eb89ad5017adcb98797] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': 7, 'amount': 2132, 'price': 233}], 'user': 'MT510', 'mitra': 'MT510', 'topup_type': 'PRE', 'invoice': 'PFI/393/I/2022'}
+INFO     [2022-01-13 14:58:51,831] [ef8f4545fb5d4eb89ad5017adcb98797] - 510
+INFO     [2022-01-13 14:58:51,909] [ef8f4545fb5d4eb89ad5017adcb98797] - Eeuser object (1000072)
+INFO     [2022-01-13 14:58:51,939] [ef8f4545fb5d4eb89ad5017adcb98797] - 1376200000000510
+INFO     [2022-01-13 14:58:52,049] [ef8f4545fb5d4eb89ad5017adcb98797] - RESPONSE : {'status': '00', 'expired_date': datetime.datetime(2022, 1, 13, 19, 58, 51, 963303), 'virtual_account': '1376200000000510'}
+INFO     [2022-01-13 15:00:27,422] [2619091bc60f41088a1ecc37973f454c] - Topup modul
+INFO     [2022-01-13 15:00:27,423] [2619091bc60f41088a1ecc37973f454c] - Client IP : 127.0.0.1
+INFO     [2022-01-13 15:00:27,424] [2619091bc60f41088a1ecc37973f454c] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': 7, 'amount': 2132, 'price': 233}], 'user': 'MT510', 'mitra': 'MT510', 'topup_type': 'PRE', 'invoice': 'PFI/394/I/2022'}
+INFO     [2022-01-13 15:00:27,449] [2619091bc60f41088a1ecc37973f454c] - 510
+INFO     [2022-01-13 15:00:27,504] [2619091bc60f41088a1ecc37973f454c] - Eeuser object (1000072)
+INFO     [2022-01-13 15:00:27,522] [2619091bc60f41088a1ecc37973f454c] - 1376200000000510
+INFO     [2022-01-13 15:02:47,313] [27af4760d99d4cda80ffe5b8199c6884] - Topup modul
+INFO     [2022-01-13 15:02:47,315] [27af4760d99d4cda80ffe5b8199c6884] - Client IP : 127.0.0.1
+INFO     [2022-01-13 15:02:47,316] [27af4760d99d4cda80ffe5b8199c6884] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': 7, 'amount': 2132, 'price': 233}], 'user': 'MT510', 'mitra': 'MT510', 'topup_type': 'PRE', 'invoice': 'PFI/394/I/2022'}
+INFO     [2022-01-13 15:02:47,347] [27af4760d99d4cda80ffe5b8199c6884] - 510
+INFO     [2022-01-13 15:02:47,405] [27af4760d99d4cda80ffe5b8199c6884] - Eeuser object (1000072)
+INFO     [2022-01-13 15:02:47,424] [27af4760d99d4cda80ffe5b8199c6884] - 1376200000000510
+INFO     [2022-01-13 15:02:47,501] [27af4760d99d4cda80ffe5b8199c6884] - RESPONSE : {'status': '00', 'expired_date': datetime.datetime(2022, 1, 13, 20, 2, 47, 441991), 'virtual_account': '1376200000000510'}
+INFO     [2022-01-13 15:05:33,810] [a22c2f5c636c487995500280ffe94204] - Topup modul
+INFO     [2022-01-13 15:05:33,811] [a22c2f5c636c487995500280ffe94204] - Client IP : 127.0.0.1
+INFO     [2022-01-13 15:05:33,812] [a22c2f5c636c487995500280ffe94204] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': 7, 'amount': 2132, 'price': 233}], 'user': 'MT510', 'mitra': 'MT510', 'topup_type': 'PRE', 'invoice': 'PFI/395/I/2022'}
+INFO     [2022-01-13 15:05:33,842] [a22c2f5c636c487995500280ffe94204] - 510
+INFO     [2022-01-13 15:05:33,909] [a22c2f5c636c487995500280ffe94204] - Eeuser object (1000072)
+INFO     [2022-01-13 15:05:33,928] [a22c2f5c636c487995500280ffe94204] - 1376200000000510
+INFO     [2022-01-13 15:05:47,654] [8595ca0011c64e94b7521414cd2bae61] - Topup modul
+INFO     [2022-01-13 15:05:47,655] [8595ca0011c64e94b7521414cd2bae61] - Client IP : 127.0.0.1
+INFO     [2022-01-13 15:05:47,656] [8595ca0011c64e94b7521414cd2bae61] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': 7, 'amount': 2132, 'price': 233}], 'user': 'MT510', 'mitra': 'MT510', 'topup_type': 'PRE', 'invoice': 'PFI/395/I/2022'}
+INFO     [2022-01-13 15:05:47,684] [8595ca0011c64e94b7521414cd2bae61] - 510
+INFO     [2022-01-13 15:05:47,733] [8595ca0011c64e94b7521414cd2bae61] - Eeuser object (1000072)
+INFO     [2022-01-13 15:05:47,752] [8595ca0011c64e94b7521414cd2bae61] - 1376200000000510
+INFO     [2022-01-13 15:05:47,839] [8595ca0011c64e94b7521414cd2bae61] - RESPONSE : {'status': '00', 'expired_date': datetime.datetime(2022, 1, 13, 20, 5, 47, 770475), 'virtual_account': '1376200000000510'}
+INFO     [2022-01-13 15:09:27,166] [fdf00d1eeb8d44f7be9ab6d71701cb72] - Topup modul
+INFO     [2022-01-13 15:09:27,171] [fdf00d1eeb8d44f7be9ab6d71701cb72] - Client IP : 127.0.0.1
+INFO     [2022-01-13 15:09:27,172] [fdf00d1eeb8d44f7be9ab6d71701cb72] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': 7, 'amount': 2132, 'price': 233}], 'user': 'MT510', 'mitra': 'MT510', 'topup_type': 'PRE', 'invoice': 'PFI/396/I/2022'}
+INFO     [2022-01-13 15:09:27,194] [fdf00d1eeb8d44f7be9ab6d71701cb72] - 510
+INFO     [2022-01-13 15:09:27,255] [fdf00d1eeb8d44f7be9ab6d71701cb72] - Eeuser object (1000072)
+INFO     [2022-01-13 15:09:27,275] [fdf00d1eeb8d44f7be9ab6d71701cb72] - 1376200000000510
+INFO     [2022-01-13 15:09:27,409] [fdf00d1eeb8d44f7be9ab6d71701cb72] - RESPONSE : {'status': '00', 'expired_date': datetime.datetime(2022, 1, 13, 20, 9, 27, 299530), 'virtual_account': '1376200000000510'}
+INFO     [2022-01-13 15:10:10,903] [2d50a8e583a04d55ae5ab9163ab34aa7] - Topup modul
+INFO     [2022-01-13 15:10:10,904] [2d50a8e583a04d55ae5ab9163ab34aa7] - Client IP : 127.0.0.1
+INFO     [2022-01-13 15:10:10,905] [2d50a8e583a04d55ae5ab9163ab34aa7] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': 7, 'amount': 2132, 'price': 233}], 'user': 'MT510', 'mitra': 'MT510', 'topup_type': 'PRE', 'invoice': 'PFI/397/I/2022'}
+INFO     [2022-01-13 15:10:10,930] [2d50a8e583a04d55ae5ab9163ab34aa7] - 510
+INFO     [2022-01-13 15:10:11,002] [2d50a8e583a04d55ae5ab9163ab34aa7] - Eeuser object (1000072)
+INFO     [2022-01-13 15:10:11,023] [2d50a8e583a04d55ae5ab9163ab34aa7] - 1376200000000510
+INFO     [2022-01-13 15:10:21,995] [204d5d89b53e4abda32a7888e6eb23fd] - Topup modul
+INFO     [2022-01-13 15:10:21,996] [204d5d89b53e4abda32a7888e6eb23fd] - Client IP : 127.0.0.1
+INFO     [2022-01-13 15:10:21,997] [204d5d89b53e4abda32a7888e6eb23fd] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': 7, 'amount': 2132, 'price': 233}], 'user': 'MT510', 'mitra': 'MT510', 'topup_type': 'PRE', 'invoice': 'PFI/397/I/2022'}
+INFO     [2022-01-13 15:10:22,022] [204d5d89b53e4abda32a7888e6eb23fd] - 510
+INFO     [2022-01-13 15:10:22,080] [204d5d89b53e4abda32a7888e6eb23fd] - Eeuser object (1000072)
+INFO     [2022-01-13 15:10:22,103] [204d5d89b53e4abda32a7888e6eb23fd] - 1376200000000510
+INFO     [2022-01-13 15:10:22,163] [204d5d89b53e4abda32a7888e6eb23fd] - RESPONSE : {'status': '00', 'expired_date': datetime.datetime(2022, 1, 13, 20, 10, 22, 121197), 'virtual_account': '1376200000000510'}
+INFO     [2022-01-13 15:18:14,262] [36bccf92805a4ac1b5306207ef5a042e] - Topup modul
+INFO     [2022-01-13 15:18:14,264] [36bccf92805a4ac1b5306207ef5a042e] - Client IP : 127.0.0.1
+INFO     [2022-01-13 15:18:14,267] [36bccf92805a4ac1b5306207ef5a042e] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': 7, 'amount': 2132, 'price': 233}], 'user': 'MT510', 'mitra': 'MT510', 'topup_type': 'PRE', 'invoice': 'INV/401/I/2022'}
+INFO     [2022-01-13 15:18:14,303] [36bccf92805a4ac1b5306207ef5a042e] - 510
+INFO     [2022-01-13 15:18:14,355] [36bccf92805a4ac1b5306207ef5a042e] - Eeuser object (1000072)
+INFO     [2022-01-13 15:18:14,375] [36bccf92805a4ac1b5306207ef5a042e] - 1376200000000510
+INFO     [2022-01-13 15:18:27,150] [aea5c98874de4074b756a29a36162365] - Topup modul
+INFO     [2022-01-13 15:18:27,151] [aea5c98874de4074b756a29a36162365] - Client IP : 127.0.0.1
+INFO     [2022-01-13 15:18:27,152] [aea5c98874de4074b756a29a36162365] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': 7, 'amount': 2132, 'price': 233}], 'user': 'MT510', 'mitra': 'MT510', 'topup_type': 'PRE', 'invoice': 'INV/401/I/2022'}
+INFO     [2022-01-13 15:18:27,192] [aea5c98874de4074b756a29a36162365] - 510
+INFO     [2022-01-13 15:18:27,255] [aea5c98874de4074b756a29a36162365] - Eeuser object (1000072)
+INFO     [2022-01-13 15:18:27,491] [aea5c98874de4074b756a29a36162365] - 1376200000000510
+INFO     [2022-01-13 15:18:27,561] [aea5c98874de4074b756a29a36162365] - RESPONSE : {'status': '00', 'expired_date': datetime.datetime(2022, 1, 13, 20, 18, 27, 506243), 'virtual_account': '1376200000000510'}
+INFO     [2022-01-13 15:19:19,746] [5b827c4e73c745329905ae8296720280] - Topup modul
+INFO     [2022-01-13 15:19:19,748] [5b827c4e73c745329905ae8296720280] - Client IP : 127.0.0.1
+INFO     [2022-01-13 15:19:19,750] [5b827c4e73c745329905ae8296720280] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': 7, 'amount': 2132, 'price': 233}], 'user': 'MT510', 'mitra': 'MT510', 'topup_type': 'PRE', 'invoice': 'INV/402/I/2022'}
+INFO     [2022-01-13 15:19:19,773] [5b827c4e73c745329905ae8296720280] - 510
+INFO     [2022-01-13 15:19:19,826] [5b827c4e73c745329905ae8296720280] - Eeuser object (1000072)
+INFO     [2022-01-13 15:19:19,847] [5b827c4e73c745329905ae8296720280] - 1376200000000510
+INFO     [2022-01-13 15:19:32,181] [e7507bc6f23a4a1991fd334255d3a054] - Topup modul
+INFO     [2022-01-13 15:19:32,182] [e7507bc6f23a4a1991fd334255d3a054] - Client IP : 127.0.0.1
+INFO     [2022-01-13 15:19:32,183] [e7507bc6f23a4a1991fd334255d3a054] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': 7, 'amount': 2132, 'price': 233}], 'user': 'MT510', 'mitra': 'MT510', 'topup_type': 'PRE', 'invoice': 'INV/402/I/2022'}
+INFO     [2022-01-13 15:19:32,212] [e7507bc6f23a4a1991fd334255d3a054] - 510
+INFO     [2022-01-13 15:19:32,261] [e7507bc6f23a4a1991fd334255d3a054] - Eeuser object (1000072)
+INFO     [2022-01-13 15:19:32,288] [e7507bc6f23a4a1991fd334255d3a054] - 1376200000000510
+INFO     [2022-01-13 15:19:32,363] [e7507bc6f23a4a1991fd334255d3a054] - RESPONSE : {'status': '00', 'expired_date': datetime.datetime(2022, 1, 13, 20, 19, 32, 307098), 'virtual_account': '1376200000000510'}
+INFO     [2022-01-13 15:21:09,078] [87babda517114880accd2848691d4c09] - Topup modul
+INFO     [2022-01-13 15:21:09,079] [87babda517114880accd2848691d4c09] - Client IP : 127.0.0.1
+INFO     [2022-01-13 15:21:09,080] [87babda517114880accd2848691d4c09] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': 7, 'amount': 2132, 'price': 233}], 'user': 'MT510', 'mitra': 'MT510', 'topup_type': 'PRE', 'invoice': 'INV/403/I/2022'}
+INFO     [2022-01-13 15:21:09,101] [87babda517114880accd2848691d4c09] - 510
+INFO     [2022-01-13 15:21:09,173] [87babda517114880accd2848691d4c09] - Eeuser object (1000072)
+INFO     [2022-01-13 15:21:09,191] [87babda517114880accd2848691d4c09] - 1376200000000510
+INFO     [2022-01-13 15:21:17,806] [dfca3e472367491690ab62369527676f] - Topup modul
+INFO     [2022-01-13 15:21:17,807] [dfca3e472367491690ab62369527676f] - Client IP : 127.0.0.1
+INFO     [2022-01-13 15:21:17,808] [dfca3e472367491690ab62369527676f] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': 7, 'amount': 2132, 'price': 233}], 'user': 'MT510', 'mitra': 'MT510', 'topup_type': 'PRE', 'invoice': 'INV/403/I/2022'}
+INFO     [2022-01-13 15:21:17,829] [dfca3e472367491690ab62369527676f] - 510
+INFO     [2022-01-13 15:21:17,879] [dfca3e472367491690ab62369527676f] - Eeuser object (1000072)
+INFO     [2022-01-13 15:21:17,902] [dfca3e472367491690ab62369527676f] - 1376200000000510
+INFO     [2022-01-13 15:21:17,965] [dfca3e472367491690ab62369527676f] - RESPONSE : {'status': '00', 'expired_date': datetime.datetime(2022, 1, 13, 20, 21, 17, 919569), 'virtual_account': '1376200000000510'}
+INFO     [2022-01-13 15:22:24,481] [d205a31cbec140cf94a1d7d69a6e6154] - Topup modul
+INFO     [2022-01-13 15:22:24,483] [d205a31cbec140cf94a1d7d69a6e6154] - Client IP : 127.0.0.1
+INFO     [2022-01-13 15:22:24,484] [d205a31cbec140cf94a1d7d69a6e6154] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': 7, 'amount': 2132, 'price': 233}], 'user': 'MT510', 'mitra': 'MT510', 'topup_type': 'PRE', 'invoice': 'INV/404/I/2022'}
+INFO     [2022-01-13 15:22:24,508] [d205a31cbec140cf94a1d7d69a6e6154] - 510
+INFO     [2022-01-13 15:22:24,571] [d205a31cbec140cf94a1d7d69a6e6154] - Eeuser object (1000072)
+INFO     [2022-01-13 15:22:24,595] [d205a31cbec140cf94a1d7d69a6e6154] - 1376200000000510
+INFO     [2022-01-13 15:22:24,657] [d205a31cbec140cf94a1d7d69a6e6154] - RESPONSE : {'status': '00', 'expired_date': datetime.datetime(2022, 1, 13, 20, 22, 24, 613755), 'virtual_account': '1376200000000510'}
+INFO     [2022-01-13 15:25:45,158] [0dc4f0f116e34578937a560f4f901730] - Topup modul
+INFO     [2022-01-13 15:25:45,159] [0dc4f0f116e34578937a560f4f901730] - Client IP : 127.0.0.1
+INFO     [2022-01-13 15:25:45,160] [0dc4f0f116e34578937a560f4f901730] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': 7, 'amount': 2132, 'price': 233}], 'user': 'MT510', 'mitra': 'MT510', 'topup_type': 'PRE', 'invoice': 'INV/405/I/2022'}
+INFO     [2022-01-13 15:25:45,183] [0dc4f0f116e34578937a560f4f901730] - 510
+INFO     [2022-01-13 15:25:45,238] [0dc4f0f116e34578937a560f4f901730] - Eeuser object (1000072)
+INFO     [2022-01-13 15:25:45,261] [0dc4f0f116e34578937a560f4f901730] - 1376200000000510
+INFO     [2022-01-13 15:25:53,123] [79a7196cf3d545b182298d302e14cb08] - Topup modul
+INFO     [2022-01-13 15:25:53,124] [79a7196cf3d545b182298d302e14cb08] - Client IP : 127.0.0.1
+INFO     [2022-01-13 15:25:53,124] [79a7196cf3d545b182298d302e14cb08] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': 7, 'amount': 2132, 'price': 233}], 'user': 'MT510', 'mitra': 'MT510', 'topup_type': 'PRE', 'invoice': 'INV/405/I/2022'}
+INFO     [2022-01-13 15:25:53,147] [79a7196cf3d545b182298d302e14cb08] - 510
+INFO     [2022-01-13 15:25:53,197] [79a7196cf3d545b182298d302e14cb08] - Eeuser object (1000072)
+INFO     [2022-01-13 15:25:53,218] [79a7196cf3d545b182298d302e14cb08] - 1376200000000510
+INFO     [2022-01-13 15:25:53,291] [79a7196cf3d545b182298d302e14cb08] - RESPONSE : {'status': '00', 'expired_date': datetime.datetime(2022, 1, 13, 20, 25, 53, 235963), 'virtual_account': '1376200000000510'}
+INFO     [2022-01-13 15:33:49,489] [09fd0ca559b54613bb63f8b87b62252f] - Topup modul
+INFO     [2022-01-13 15:33:49,491] [09fd0ca559b54613bb63f8b87b62252f] - Client IP : 127.0.0.1
+INFO     [2022-01-13 15:33:49,492] [09fd0ca559b54613bb63f8b87b62252f] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': '1', 'amount': '10', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}], 'user': 'MT1', 'mitra': 'MT1', 'topup_type': 'PRE'}
+INFO     [2022-01-13 15:33:49,517] [09fd0ca559b54613bb63f8b87b62252f] - 1
+INFO     [2022-01-13 15:33:49,559] [09fd0ca559b54613bb63f8b87b62252f] - Eeuser object (957)
+INFO     [2022-01-13 15:33:49,584] [09fd0ca559b54613bb63f8b87b62252f] - 1376200000000001
+INFO     [2022-01-13 15:33:49,745] [09fd0ca559b54613bb63f8b87b62252f] - RESPONSE : {'status': '00', 'expired_date': datetime.datetime(2022, 1, 13, 20, 33, 49, 604684), 'virtual_account': '1376200000000001'}
+INFO     [2022-01-13 15:54:53,451] [685376af47254154b636440ccd1eea69] - Topup modul
+INFO     [2022-01-13 15:54:53,452] [685376af47254154b636440ccd1eea69] - Client IP : 127.0.0.1
+INFO     [2022-01-13 15:54:53,453] [685376af47254154b636440ccd1eea69] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': '1', 'amount': '10', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}], 'user': 'ID1', 'mitra': 'MT1', 'topup_type': 'PRE'}
+INFO     [2022-01-13 15:54:53,476] [685376af47254154b636440ccd1eea69] - 1
+INFO     [2022-01-13 15:54:53,526] [685376af47254154b636440ccd1eea69] - 13762628562144666
+INFO     [2022-01-13 15:54:53,687] [685376af47254154b636440ccd1eea69] - RESPONSE : {'status': '00', 'expired_date': datetime.datetime(2022, 1, 13, 20, 54, 53, 546391), 'virtual_account': '13762628562144666'}
+INFO     [2022-01-13 15:59:39,060] [24a5694843364fad8abe7687ba019ee3] - Topup modul
+INFO     [2022-01-13 15:59:39,062] [24a5694843364fad8abe7687ba019ee3] - Client IP : 127.0.0.1
+INFO     [2022-01-13 15:59:39,063] [24a5694843364fad8abe7687ba019ee3] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': '1', 'amount': '10', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}], 'user': 'ID1', 'mitra': 'MT1', 'topup_type': 'PRE'}
+INFO     [2022-01-13 15:59:39,088] [24a5694843364fad8abe7687ba019ee3] - 1
+INFO     [2022-01-13 15:59:39,145] [24a5694843364fad8abe7687ba019ee3] - 13762628562144666
+INFO     [2022-01-13 16:00:13,063] [4e40fe529a3f4ccdb31cb603f4de3bf3] - Topup modul
+INFO     [2022-01-13 16:00:13,064] [4e40fe529a3f4ccdb31cb603f4de3bf3] - Client IP : 127.0.0.1
+INFO     [2022-01-13 16:00:13,065] [4e40fe529a3f4ccdb31cb603f4de3bf3] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': '1', 'amount': '10', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}], 'user': 'ID1', 'mitra': 'MT1', 'topup_type': 'PRE'}
+INFO     [2022-01-13 16:00:13,129] [4e40fe529a3f4ccdb31cb603f4de3bf3] - 1
+INFO     [2022-01-13 16:00:13,242] [4e40fe529a3f4ccdb31cb603f4de3bf3] - 13762628562144666
+INFO     [2022-01-13 16:00:13,750] [4e40fe529a3f4ccdb31cb603f4de3bf3] - RESPONSE : {'status': '00', 'expired_date': datetime.datetime(2022, 1, 13, 21, 0, 13, 267619), 'virtual_account': '13762628562144666'}
+INFO     [2022-01-13 16:01:20,180] [4546dc1cd6f74e5eb1b11be7e7b7ecf1] - Topup modul
+INFO     [2022-01-13 16:01:20,182] [4546dc1cd6f74e5eb1b11be7e7b7ecf1] - Client IP : 127.0.0.1
+INFO     [2022-01-13 16:01:20,182] [4546dc1cd6f74e5eb1b11be7e7b7ecf1] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': '1', 'amount': '10', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}], 'user': 'ID1', 'mitra': 'MT1', 'topup_type': 'PRE'}
+INFO     [2022-01-13 16:01:20,213] [4546dc1cd6f74e5eb1b11be7e7b7ecf1] - 1
+INFO     [2022-01-13 16:01:20,300] [4546dc1cd6f74e5eb1b11be7e7b7ecf1] - 13762628562144666
+INFO     [2022-01-13 16:01:20,690] [4546dc1cd6f74e5eb1b11be7e7b7ecf1] - RESPONSE : {'status': '00', 'expired_date': datetime.datetime(2022, 1, 13, 21, 1, 20, 321894), 'virtual_account': '13762628562144666'}
+INFO     [2022-01-13 16:02:37,521] [5046726d2185489e891e16bb4e6c9dca] - Topup modul
+INFO     [2022-01-13 16:02:37,522] [5046726d2185489e891e16bb4e6c9dca] - Client IP : 127.0.0.1
+INFO     [2022-01-13 16:02:37,523] [5046726d2185489e891e16bb4e6c9dca] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': '1', 'amount': '10', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}], 'user': 'ID1', 'mitra': 'MT1', 'topup_type': 'PRE'}
+INFO     [2022-01-13 16:02:37,547] [5046726d2185489e891e16bb4e6c9dca] - 1
+INFO     [2022-01-13 16:02:37,608] [5046726d2185489e891e16bb4e6c9dca] - +628562144666
+INFO     [2022-01-13 16:02:37,631] [5046726d2185489e891e16bb4e6c9dca] - 13762628562144666
+INFO     [2022-01-13 16:02:37,967] [5046726d2185489e891e16bb4e6c9dca] - RESPONSE : {'status': '00', 'expired_date': datetime.datetime(2022, 1, 13, 21, 2, 37, 651510), 'virtual_account': '13762628562144666'}
+INFO     [2022-01-13 16:04:34,725] [87d95fd4b6fa4c26891fb9af04541937] - Topup modul
+INFO     [2022-01-13 16:04:34,726] [87d95fd4b6fa4c26891fb9af04541937] - Client IP : 127.0.0.1
+INFO     [2022-01-13 16:04:34,728] [87d95fd4b6fa4c26891fb9af04541937] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': '1', 'amount': '10', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}], 'user': 'ID1', 'mitra': 'MT1', 'topup_type': 'PRE'}
+INFO     [2022-01-13 16:04:34,751] [87d95fd4b6fa4c26891fb9af04541937] - 1
+INFO     [2022-01-13 16:04:34,809] [87d95fd4b6fa4c26891fb9af04541937] - replacing
+INFO     [2022-01-13 16:04:34,811] [87d95fd4b6fa4c26891fb9af04541937] - +628562144666
+INFO     [2022-01-13 16:04:34,832] [87d95fd4b6fa4c26891fb9af04541937] - 13762628562144666
+INFO     [2022-01-13 16:04:35,000] [87d95fd4b6fa4c26891fb9af04541937] - RESPONSE : {'status': '00', 'expired_date': datetime.datetime(2022, 1, 13, 21, 4, 34, 854556), 'virtual_account': '13762628562144666'}
+INFO     [2022-01-13 16:05:20,976] [b6363dc6dd694f52a7fd797e8ba13055] - Topup modul
+INFO     [2022-01-13 16:05:20,977] [b6363dc6dd694f52a7fd797e8ba13055] - Client IP : 127.0.0.1
+INFO     [2022-01-13 16:05:20,979] [b6363dc6dd694f52a7fd797e8ba13055] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': '1', 'amount': '10', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}], 'user': 'ID1', 'mitra': 'MT1', 'topup_type': 'PRE'}
+INFO     [2022-01-13 16:05:21,007] [b6363dc6dd694f52a7fd797e8ba13055] - 1
+INFO     [2022-01-13 16:05:21,065] [b6363dc6dd694f52a7fd797e8ba13055] - replacing
+INFO     [2022-01-13 16:05:21,067] [b6363dc6dd694f52a7fd797e8ba13055] - +628562144666
+INFO     [2022-01-13 16:05:21,068] [b6363dc6dd694f52a7fd797e8ba13055] - 13762628562144666
+INFO     [2022-01-13 16:05:21,352] [b6363dc6dd694f52a7fd797e8ba13055] - RESPONSE : {'status': '00', 'expired_date': datetime.datetime(2022, 1, 13, 21, 5, 21, 90043), 'virtual_account': '13762628562144666'}
+INFO     [2022-01-13 16:06:52,073] [50cda8f18a304513a9bd3c42099a2d1a] - Topup modul
+INFO     [2022-01-13 16:06:52,075] [50cda8f18a304513a9bd3c42099a2d1a] - Client IP : 127.0.0.1
+INFO     [2022-01-13 16:06:52,075] [50cda8f18a304513a9bd3c42099a2d1a] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': '1', 'amount': '10', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}], 'user': 'ID1', 'mitra': 'MT1', 'topup_type': 'PRE'}
+INFO     [2022-01-13 16:06:52,100] [50cda8f18a304513a9bd3c42099a2d1a] - 1
+INFO     [2022-01-13 16:06:52,163] [50cda8f18a304513a9bd3c42099a2d1a] - 13762628562144666
+INFO     [2022-01-13 16:06:52,310] [50cda8f18a304513a9bd3c42099a2d1a] - RESPONSE : {'status': '00', 'expired_date': datetime.datetime(2022, 1, 13, 21, 6, 52, 181189), 'virtual_account': '13762628562144666'}
+INFO     [2022-01-13 16:12:15,752] [6e0152533ec34d599f16fa140e970134] - Topup modul
+INFO     [2022-01-13 16:12:15,753] [6e0152533ec34d599f16fa140e970134] - Client IP : 127.0.0.1
+INFO     [2022-01-13 16:12:15,754] [6e0152533ec34d599f16fa140e970134] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': '1', 'amount': '10', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}], 'user': 'ID1', 'mitra': 'MT1', 'topup_type': 'PRE'}
+INFO     [2022-01-13 16:12:15,778] [6e0152533ec34d599f16fa140e970134] - 1
+INFO     [2022-01-13 16:12:15,833] [6e0152533ec34d599f16fa140e970134] - +628562144666
+INFO     [2022-01-13 16:12:15,835] [6e0152533ec34d599f16fa140e970134] - 13762628562144666
+INFO     [2022-01-13 16:12:16,018] [6e0152533ec34d599f16fa140e970134] - RESPONSE : {'status': '00', 'expired_date': datetime.datetime(2022, 1, 13, 21, 12, 15, 856703), 'virtual_account': '13762628562144666'}
+INFO     [2022-01-13 16:15:38,219] [1707ad7ce1a3451eac4dc5308d51febf] - Topup modul
+INFO     [2022-01-13 16:15:38,221] [1707ad7ce1a3451eac4dc5308d51febf] - Client IP : 127.0.0.1
+INFO     [2022-01-13 16:15:38,223] [1707ad7ce1a3451eac4dc5308d51febf] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': '1', 'amount': '10', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}], 'user': 'ID1', 'mitra': 'MT1', 'topup_type': 'PRE'}
+INFO     [2022-01-13 16:15:38,247] [1707ad7ce1a3451eac4dc5308d51febf] - 1
+INFO     [2022-01-13 16:15:38,305] [1707ad7ce1a3451eac4dc5308d51febf] - 08562144666
+INFO     [2022-01-13 16:15:38,306] [1707ad7ce1a3451eac4dc5308d51febf] - 1376208562144666
+INFO     [2022-01-13 16:31:49,592] [c5085f8497ec40ee8dbe27b429f64bce] - Topup modul
+INFO     [2022-01-13 16:31:49,594] [c5085f8497ec40ee8dbe27b429f64bce] - Client IP : 127.0.0.1
+INFO     [2022-01-13 16:31:49,594] [c5085f8497ec40ee8dbe27b429f64bce] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': '1', 'amount': '10', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}], 'user': 'ID1', 'mitra': 'MT1', 'topup_type': 'PRE'}
+INFO     [2022-01-13 16:31:49,618] [c5085f8497ec40ee8dbe27b429f64bce] - 1
+INFO     [2022-01-13 16:31:49,671] [c5085f8497ec40ee8dbe27b429f64bce] - 08562144666
+INFO     [2022-01-13 16:31:49,672] [c5085f8497ec40ee8dbe27b429f64bce] - 1376208562144666
+INFO     [2022-01-13 16:32:28,610] [35f036682872448b8158c4d602eba260] - Topup modul
+INFO     [2022-01-13 16:32:28,611] [35f036682872448b8158c4d602eba260] - Client IP : 127.0.0.1
+INFO     [2022-01-13 16:32:28,611] [35f036682872448b8158c4d602eba260] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': '1', 'amount': '10', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}], 'user': 'ID1', 'mitra': 'MT1', 'topup_type': 'PRE'}
+INFO     [2022-01-13 16:32:28,639] [35f036682872448b8158c4d602eba260] - 1
+INFO     [2022-01-13 16:32:28,702] [35f036682872448b8158c4d602eba260] - 08562144666
+INFO     [2022-01-13 16:32:28,703] [35f036682872448b8158c4d602eba260] - 1376208562144666
+INFO     [2022-01-13 16:32:28,843] [35f036682872448b8158c4d602eba260] - RESPONSE : {'status': '00', 'expired_date': datetime.datetime(2022, 1, 13, 21, 32, 28, 718049), 'virtual_account': '1376208562144666'}
+INFO     [2022-01-13 16:32:42,910] [481e9f7d33284f09b52426b6fa20ce57] - Topup modul
+INFO     [2022-01-13 16:32:42,911] [481e9f7d33284f09b52426b6fa20ce57] - Client IP : 127.0.0.1
+INFO     [2022-01-13 16:32:42,912] [481e9f7d33284f09b52426b6fa20ce57] - Request : {'bank_from': '014', 'bank_to': '014', 'product': [{'tenant': '1', 'amount': '10', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}, {'tenant': '2', 'amount': '2', 'price': '100'}], 'user': 'MT1', 'mitra': 'MT1', 'topup_type': 'PRE'}
+INFO     [2022-01-13 16:32:42,936] [481e9f7d33284f09b52426b6fa20ce57] - 1
+INFO     [2022-01-13 16:32:42,977] [481e9f7d33284f09b52426b6fa20ce57] - Eeuser object (957)
+INFO     [2022-01-13 16:32:43,007] [481e9f7d33284f09b52426b6fa20ce57] - 1376200000000001
+INFO     [2022-01-13 16:32:43,375] [481e9f7d33284f09b52426b6fa20ce57] - RESPONSE : {'status': '00', 'expired_date': datetime.datetime(2022, 1, 13, 21, 32, 43, 28331), 'virtual_account': '1376200000000001'}
